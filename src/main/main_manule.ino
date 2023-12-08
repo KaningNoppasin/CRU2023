@@ -5,9 +5,9 @@
     |  |  |
     C-----D
 
-*TODO => servo y-axis function
-*TODO => servo degree function
-*TODO => gripper function
+*TODO => Test All Code  (Compleat??)
+? last Edit 8/12/2023
+? Edit By Noppasin Renruang Cpr.E KMUTNB BKK Thailand
 
 */
 #include <Wire.h>
@@ -51,20 +51,20 @@ void loop()
     //     case 5:STOP(defaultSpeed);break;
     //     default:STOP(defaultSpeed);break;
     // }
-  // switch (joyValue.servo_y_axis) {
-  //     case 1:FORWARD(defaultSpeed);break;
-  //     case 2:BACKOFF(defaultSpeed);break;
-  //     default:STOP(defaultSpeed);break;
-  //   }
-  // switch (joyValue.servo_degree) {
-  //     case 1:FORWARD(defaultSpeed);break;
-  //     case 2:BACKOFF(defaultSpeed);break;
-  //     case 3:RIGHT(defaultSpeed);break;
-  //     default:STOP(defaultSpeed);break;
-  //   }
-  // switch (joyValue.gripper) {
-  //     case 1:FORWARD(defaultSpeed);break;
-  //     case 2:BACKOFF(defaultSpeed);break;
-  //     default:STOP(defaultSpeed);break;
-  //   }
+    // switch (joyValue.servo_y_axis) {
+    //     case 1:SERVOC_CONTROL(90);break;
+    //     case 2:SERVOC_CONTROL(0);break;
+    //     default:break;
+    //     }
+    // switch (joyValue.servo_degree) {
+    //     case 1:SERVOB_CONTROL(0);break;
+    //     case 2:SERVOB_CONTROL(90);break;
+    //     case 3:SERVOB_CONTROL(180);break;
+    //     default:break;
+    //     }
+    // switch (joyValue.gripper) {
+    //     case 1:SERVOA_CONTROL(90);break;
+    //     case 2:SERVOA_CONTROL(0);break;
+    //     default:break;
+    //     }
 }
