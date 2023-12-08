@@ -40,3 +40,44 @@ JOY getValueFromJOY(){
     joyValue.gripper = ch6Value ? 1 : 2;
     return joyValue;
 }
+
+void testJoy(){
+    ch1Value = readChannel(CH1, -100, 100, 0);  // robot x-axix (forward+,backward-)
+    ch2Value = readChannel(CH2, -100, 100, 0);  // =>none
+    ch3Value = readChannel(CH3, -100, 100, 0);  // servo y-axis (up,down)
+    ch4Value = readChannel(CH4, -100, 100, 0);  // robot y-axis (left-,right+)
+    ch5Value = readChannel(CH5, -100, 100, 0);  // servo turn 0 90 180 degree
+    ch6Value = readSwitch(CH6,false);  //  gripper ob off
+    if (ch1Value > offSet){
+        Serial.print("forward");
+    }else if (ch1Value < -offSet){
+        Serial.print("backward");
+    }else if (ch4Value > offSet){
+        Serial.print("Right");
+    }else if (ch4Value < -offSet){
+        Serial.print("Left");
+    }else{
+        Serial.print("Stop");
+    }
+    Serial.print(" | ");
+    if (ch3Value > offSet){
+        Serial.print("servo y-axis (up)");
+    }else if (ch3Value < -offSet){
+        Serial.print("servo y-axis (down)");
+    }
+    Serial.print(" | ");
+    if (ch5Value > offSet){
+        Serial.print("servo turn 0 degree");
+    }else if (ch5Value <= offSet && ch5Value >= -offSet){
+        Serial.print("servo turn 90 degree");
+    }else if (ch5Value < -offSet){
+        Serial.print("servo turn 180 degree");
+    }
+    Serial.print(" | ");
+    if (ch6Value){
+        Serial.print("gripper on");
+    }else{
+        Serial.print("gripper off");
+    }
+    Serial.println();
+}

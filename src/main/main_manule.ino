@@ -30,17 +30,27 @@ void setup()
 
 void loop()
 {
-    // LEFT_2(255);
-    JOY joyValue = getValueFromJOY();
+    testJoy();
+    // testMotor
+    // pwmWrite as same as analogWrite
+    // pwmWrite(pin,pwm);
+    pwmWrite(0,100);
+    pwmWrite(1,100);
+    pwmWrite(2,100);
+    pwmWrite(3,100);
+    pwmWrite(4,100);
+
+
+    // JOY joyValue = getValueFromJOY();
     // Serial.println(joyValue);
-    switch (joyValue.direction) {
-        case 1:FORWARD(defaultSpeed);break;
-        case 2:BACKOFF(defaultSpeed);break;
-        case 3:RIGHT_2(defaultSpeed);break;
-        case 4:LEFT_2(defaultSpeed);break;
-        case 5:STOP(defaultSpeed);break;
-        default:STOP(defaultSpeed);break;
-    }
+    // switch (joyValue.direction) {
+    //     case 1:FORWARD(defaultSpeed);break;
+    //     case 2:BACKOFF(defaultSpeed);break;
+    //     case 3:RIGHT_2(defaultSpeed);break;
+    //     case 4:LEFT_2(defaultSpeed);break;
+    //     case 5:STOP(defaultSpeed);break;
+    //     default:STOP(defaultSpeed);break;
+    // }
   // switch (joyValue.servo_y_axis) {
   //     case 1:FORWARD(defaultSpeed);break;
   //     case 2:BACKOFF(defaultSpeed);break;
