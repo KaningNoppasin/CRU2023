@@ -18,9 +18,9 @@ byte positionC = 0;
 
 int step;
 
-// servoA.attach(9);
-// servoB.attach(9);
-// servoC.attach(9);
+// servoA.attach(8);
+// servoB.attach(7);
+// servoC.attach(6);
 
 // position => Start    degree => stop
 byte servoController(Servo servo,byte start,byte stop = 0,int dl = 5){

@@ -25,10 +25,10 @@ JOY getValueFromJOY(){
     JOY joyValue;
     ch1Value = readChannel(CH1, -100, 100, 0);  // robot x-axix (forward+,backward-)
     ch2Value = readChannel(CH2, -100, 100, 0);  // =>none
-    ch3Value = readChannel(CH3, -100, 100, 0);  // servo y-axis (up,down)
+    ch3Value = readChannel(CH3, -100, 100, 0);  // servo y-axis (up,down) (120,180)
     ch4Value = readChannel(CH4, -100, 100, 0);  // robot y-axis (left-,right+)
-    ch5Value = readChannel(CH5, -100, 100, 0);  // servo turn 0 90 180 degree
-    ch6Value = readSwitch(CH6,false);  //  gripper ob off
+    ch5Value = readChannel(CH5, -100, 100, 0);  // servo turn 0 90 180 degree (5 90 170)
+    ch6Value = readSwitch(CH6,false);  //  gripper ob off   (0,50)
 
     //  1=>Forward 2=>Backward 3=>Right 4=>Left 5=>Stop
     joyValue.direction = ch1Value > offSet ? 1 : ch1Value < -offSet ? 2 : ch4Value > offSet ? 3 : ch4Value < -offSet ? 4 : 5;
