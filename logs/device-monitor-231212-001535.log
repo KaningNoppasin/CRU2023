@@ -1,0 +1,4694 @@
+00:15:35.901 > 0
+00:15:35.901 > positionA: 0    positionB: 5    positionC: 0
+00:15:35.905 > 5
+00:15:35.905 > positionA: 0    positionB: 5    positionC: 0
+00:15:35.912 > 0
+00:15:35.912 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.027 > backward | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:36.033 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.157 > 0
+00:15:36.158 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.162 > 5
+00:15:36.162 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.169 > 6
+00:15:36.169 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.173 > 7
+00:15:36.173 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.180 > 8
+00:15:36.180 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.184 > 9
+00:15:36.184 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.192 > 10
+00:15:36.192 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.196 > 11
+00:15:36.196 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.203 > 12
+00:15:36.203 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.207 > 13
+00:15:36.210 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.214 > 14
+00:15:36.214 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.221 > 15
+00:15:36.221 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.226 > 16
+00:15:36.226 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.232 > 17
+00:15:36.232 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.237 > 18
+00:15:36.237 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.244 > 19
+00:15:36.244 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.248 > 20
+00:15:36.248 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.255 > 21
+00:15:36.255 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.260 > 22
+00:15:36.262 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.267 > 23
+00:15:36.267 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.274 > 24
+00:15:36.274 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.278 > 25
+00:15:36.278 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.285 > 26
+00:15:36.285 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.289 > 27
+00:15:36.289 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.296 > 28
+00:15:36.296 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.301 > 29
+00:15:36.303 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.308 > 30
+00:15:36.308 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.315 > 31
+00:15:36.315 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.319 > 32
+00:15:36.319 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.326 > 33
+00:15:36.326 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.330 > 34
+00:15:36.330 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.337 > 35
+00:15:36.337 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.342 > 36
+00:15:36.342 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.349 > 37
+00:15:36.349 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.353 > 38
+00:15:36.356 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.360 > 39
+00:15:36.360 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.367 > 40
+00:15:36.367 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.371 > 41
+00:15:36.371 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.378 > 42
+00:15:36.378 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.383 > 43
+00:15:36.383 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.390 > 44
+00:15:36.390 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.394 > 45
+00:15:36.397 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.401 > 46
+00:15:36.401 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.408 > 47
+00:15:36.408 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.412 > 48
+00:15:36.412 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.420 > 49
+00:15:36.420 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.424 > 50
+00:15:36.424 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.431 > 51
+00:15:36.431 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.435 > 52
+00:15:36.435 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.442 > 53
+00:15:36.442 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.446 > 54
+00:15:36.449 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.454 > 55
+00:15:36.454 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.461 > 56
+00:15:36.461 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.465 > 57
+00:15:36.465 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.472 > 58
+00:15:36.472 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.476 > 59
+00:15:36.476 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.483 > 60
+00:15:36.483 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.488 > 61
+00:15:36.490 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.495 > 62
+00:15:36.495 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.502 > 63
+00:15:36.502 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.506 > 64
+00:15:36.506 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.513 > 65
+00:15:36.513 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.517 > 66
+00:15:36.517 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.524 > 67
+00:15:36.524 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.529 > 68
+00:15:36.529 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.536 > 69
+00:15:36.536 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.540 > 70
+00:15:36.543 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.547 > 71
+00:15:36.547 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.554 > 72
+00:15:36.554 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.558 > 73
+00:15:36.558 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.565 > 74
+00:15:36.565 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.570 > 75
+00:15:36.570 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.577 > 76
+00:15:36.577 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.581 > 77
+00:15:36.584 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.588 > 78
+00:15:36.588 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.595 > 79
+00:15:36.595 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.599 > 80
+00:15:36.599 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.606 > 81
+00:15:36.606 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.611 > 82
+00:15:36.611 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.618 > 83
+00:15:36.618 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.622 > 84
+00:15:36.622 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.629 > 85
+00:15:36.629 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.633 > 86
+00:15:36.636 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.641 > 87
+00:15:36.641 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.647 > 88
+00:15:36.647 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.652 > 89
+00:15:36.652 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.659 > 90
+00:15:36.659 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.663 > 91
+00:15:36.663 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.670 > 92
+00:15:36.670 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.674 > 93
+00:15:36.677 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.681 > 94
+00:15:36.681 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.688 > 95
+00:15:36.689 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.693 > 96
+00:15:36.693 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.700 > 97
+00:15:36.700 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.704 > 98
+00:15:36.704 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.711 > 99
+00:15:36.711 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.715 > 100
+00:15:36.715 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.722 > 101
+00:15:36.722 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.729 > 102
+00:15:36.729 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.734 > 103
+00:15:36.734 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.741 > 104
+00:15:36.741 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.745 > 105
+00:15:36.745 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.752 > 106
+00:15:36.752 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.756 > 107
+00:15:36.759 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.763 > 108
+00:15:36.763 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.770 > 109
+00:15:36.770 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.775 > 110
+00:15:36.775 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.781 > 111
+00:15:36.781 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.786 > 112
+00:15:36.788 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.793 > 113
+00:15:36.793 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.800 > 114
+00:15:36.800 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.804 > 115
+00:15:36.804 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.811 > 116
+00:15:36.811 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.815 > 117
+00:15:36.818 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.822 > 118
+00:15:36.822 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.829 > 119
+00:15:36.829 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.833 > 120
+00:15:36.833 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.841 > 121
+00:15:36.841 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.845 > 122
+00:15:36.847 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.852 > 123
+00:15:36.852 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.859 > 124
+00:15:36.859 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.863 > 125
+00:15:36.863 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.870 > 126
+00:15:36.870 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.874 > 127
+00:15:36.877 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.881 > 128
+00:15:36.881 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.888 > 129
+00:15:36.888 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.893 > 130
+00:15:36.893 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.899 > 131
+00:15:36.899 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.904 > 132
+00:15:36.904 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.911 > 133
+00:15:36.911 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.918 > 134
+00:15:36.918 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.922 > 135
+00:15:36.922 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.929 > 136
+00:15:36.929 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.933 > 137
+00:15:36.933 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.940 > 138
+00:15:36.940 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.945 > 139
+00:15:36.947 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.952 > 140
+00:15:36.952 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.959 > 141
+00:15:36.959 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.963 > 142
+00:15:36.963 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.970 > 143
+00:15:36.970 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.974 > 144
+00:15:36.977 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.981 > 145
+00:15:36.981 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.988 > 146
+00:15:36.988 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.992 > 147
+00:15:36.992 > positionA: 0    positionB: 5    positionC: 0
+00:15:36.999 > 148
+00:15:36.999 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.004 > 149
+00:15:37.006 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.011 > 150
+00:15:37.011 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.018 > 151
+00:15:37.018 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.022 > 152
+00:15:37.022 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.029 > 153
+00:15:37.029 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.033 > 154
+00:15:37.036 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.040 > 155
+00:15:37.040 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.047 > 156
+00:15:37.047 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.051 > 157
+00:15:37.051 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.058 > 158
+00:15:37.058 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.063 > 159
+00:15:37.065 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.070 > 160
+00:15:37.070 > positionA: 0    positionB: 5    positionC: 0
+00:15:37.077 > 0
+00:15:37.077 > positionA: 0    positionB: 160    positionC: 0
+00:15:38.078 > --------------------------------------------------------
+00:15:38.187 > forward | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:38.192 > positionA: 0    positionB: 160    positionC: 0
+00:15:38.318 > 0
+00:15:38.318 > positionA: 0    positionB: 160    positionC: 0
+00:15:38.322 > 160
+00:15:38.322 > positionA: 0    positionB: 160    positionC: 0
+00:15:38.329 > 0
+00:15:38.329 > positionA: 0    positionB: 160    positionC: 0
+00:15:39.330 > --------------------------------------------------------
+00:15:39.447 > forward | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:39.452 > positionA: 0    positionB: 160    positionC: 0
+00:15:39.578 > 0
+00:15:39.578 > positionA: 0    positionB: 160    positionC: 0
+00:15:39.582 > 160
+00:15:39.582 > positionA: 0    positionB: 160    positionC: 0
+00:15:39.589 > 0
+00:15:39.589 > positionA: 0    positionB: 160    positionC: 0
+00:15:40.590 > --------------------------------------------------------
+00:15:40.707 > forward | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:40.713 > positionA: 0    positionB: 160    positionC: 0
+00:15:40.838 > 0
+00:15:40.838 > positionA: 0    positionB: 160    positionC: 0
+00:15:40.842 > 160
+00:15:40.842 > positionA: 0    positionB: 160    positionC: 0
+00:15:40.849 > 0
+00:15:40.849 > positionA: 0    positionB: 160    positionC: 0
+00:15:41.850 > --------------------------------------------------------
+00:15:41.967 > forward | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:41.973 > positionA: 0    positionB: 160    positionC: 0
+00:15:42.098 > 0
+00:15:42.098 > positionA: 0    positionB: 160    positionC: 0
+00:15:42.102 > 160
+00:15:42.102 > positionA: 0    positionB: 160    positionC: 0
+00:15:42.109 > 0
+00:15:42.109 > positionA: 0    positionB: 160    positionC: 0
+00:15:43.110 > --------------------------------------------------------
+00:15:43.227 > forward | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:43.232 > positionA: 0    positionB: 160    positionC: 0
+00:15:43.358 > 0
+00:15:43.358 > positionA: 0    positionB: 160    positionC: 0
+00:15:43.362 > 160
+00:15:43.362 > positionA: 0    positionB: 160    positionC: 0
+00:15:43.369 > 0
+00:15:43.369 > positionA: 0    positionB: 160    positionC: 0
+00:15:44.370 > --------------------------------------------------------
+00:15:44.487 > forward | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:44.492 > positionA: 0    positionB: 160    positionC: 0
+00:15:44.618 > 0
+00:15:44.618 > positionA: 0    positionB: 160    positionC: 0
+00:15:44.622 > 160
+00:15:44.622 > positionA: 0    positionB: 160    positionC: 0
+00:15:44.629 > 0
+00:15:44.629 > positionA: 0    positionB: 160    positionC: 0
+00:15:45.630 > --------------------------------------------------------
+00:15:45.747 > forward | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:45.752 > positionA: 0    positionB: 160    positionC: 0
+00:15:45.877 > 0
+00:15:45.878 > positionA: 0    positionB: 160    positionC: 0
+00:15:45.882 > 160
+00:15:45.882 > positionA: 0    positionB: 160    positionC: 0
+00:15:45.888 > 0
+00:15:45.888 > positionA: 0    positionB: 160    positionC: 0
+00:15:46.890 > --------------------------------------------------------
+00:15:47.007 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:47.012 > positionA: 0    positionB: 160    positionC: 0
+00:15:47.137 > 0
+00:15:47.138 > positionA: 0    positionB: 160    positionC: 0
+00:15:47.141 > 160
+00:15:47.141 > positionA: 0    positionB: 160    positionC: 0
+00:15:47.148 > 0
+00:15:47.148 > positionA: 0    positionB: 160    positionC: 0
+00:15:48.150 > --------------------------------------------------------
+00:15:48.267 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:48.272 > positionA: 0    positionB: 160    positionC: 0
+00:15:48.397 > 0
+00:15:48.398 > positionA: 0    positionB: 160    positionC: 0
+00:15:48.402 > 160
+00:15:48.402 > positionA: 0    positionB: 160    positionC: 0
+00:15:48.408 > 0
+00:15:48.408 > positionA: 0    positionB: 160    positionC: 0
+00:15:49.410 > --------------------------------------------------------
+00:15:49.527 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:49.532 > positionA: 0    positionB: 160    positionC: 0
+00:15:49.657 > 0
+00:15:49.658 > positionA: 0    positionB: 160    positionC: 0
+00:15:49.662 > 160
+00:15:49.662 > positionA: 0    positionB: 160    positionC: 0
+00:15:49.669 > 0
+00:15:49.669 > positionA: 0    positionB: 160    positionC: 0
+00:15:50.670 > --------------------------------------------------------
+00:15:50.787 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:15:50.792 > positionA: 0    positionB: 160    positionC: 0
+00:15:50.917 > 0
+00:15:50.918 > positionA: 0    positionB: 160    positionC: 0
+00:15:50.922 > 160
+00:15:50.922 > positionA: 0    positionB: 160    positionC: 0
+00:15:50.928 > 0
+00:15:50.928 > positionA: 0    positionB: 160    positionC: 0
+00:15:51.930 > --------------------------------------------------------
+00:15:52.048 > Stop | servo y-axis (up) | servo turn 180 degree | gripper on
+00:15:52.051 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.178 > 0
+00:15:52.179 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.182 > 1
+00:15:52.182 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.190 > 2
+00:15:52.190 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.194 > 3
+00:15:52.194 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.201 > 4
+00:15:52.201 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.205 > 5
+00:15:52.207 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.212 > 6
+00:15:52.212 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.218 > 7
+00:15:52.218 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.223 > 8
+00:15:52.223 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.230 > 9
+00:15:52.230 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.234 > 10
+00:15:52.236 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.241 > 11
+00:15:52.241 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.247 > 12
+00:15:52.247 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.252 > 13
+00:15:52.252 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.259 > 14
+00:15:52.259 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.265 > 15
+00:15:52.265 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.270 > 16
+00:15:52.270 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.277 > 17
+00:15:52.277 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.281 > 18
+00:15:52.283 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.288 > 19
+00:15:52.288 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.295 > 20
+00:15:52.295 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.299 > 21
+00:15:52.299 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.306 > 22
+00:15:52.306 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.312 > 23
+00:15:52.312 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.317 > 24
+00:15:52.317 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.323 > 25
+00:15:52.323 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.328 > 26
+00:15:52.330 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.334 > 27
+00:15:52.334 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.341 > 28
+00:15:52.341 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.346 > 29
+00:15:52.346 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.376 > 30
+00:15:52.376 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.376 > 31
+00:15:52.376 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.376 > 32
+00:15:52.376 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.376 > 33
+00:15:52.376 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.376 > 34
+00:15:52.377 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.382 > 35
+00:15:52.382 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.388 > 36
+00:15:52.388 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.393 > 37
+00:15:52.393 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.399 > 38
+00:15:52.399 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.406 > 39
+00:15:52.406 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.410 > 40
+00:15:52.410 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.417 > 41
+00:15:52.417 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.422 > 42
+00:15:52.424 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.428 > 43
+00:15:52.428 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.435 > 44
+00:15:52.435 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.439 > 45
+00:15:52.439 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.446 > 46
+00:15:52.446 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.453 > 47
+00:15:52.453 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.457 > 48
+00:15:52.457 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.464 > 49
+00:15:52.464 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.468 > 50
+00:15:52.471 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.475 > 51
+00:15:52.475 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.482 > 52
+00:15:52.482 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.486 > 53
+00:15:52.486 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.494 > 54
+00:15:52.494 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.500 > 55
+00:15:52.500 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.506 > 56
+00:15:52.506 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.511 > 57
+00:15:52.511 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.516 > 58
+00:15:52.522 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.522 > 59
+00:15:52.522 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.532 > 60
+00:15:52.532 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.538 > 61
+00:15:52.538 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.540 > 62
+00:15:52.540 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.547 > 63
+00:15:52.547 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.554 > 64
+00:15:52.554 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.558 > 65
+00:15:52.558 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.562 > 66
+00:15:52.565 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.569 > 67
+00:15:52.569 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.576 > 68
+00:15:52.576 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.580 > 69
+00:15:52.580 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.587 > 70
+00:15:52.587 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.594 > 71
+00:15:52.594 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.598 > 72
+00:15:52.598 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.605 > 73
+00:15:52.605 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.609 > 74
+00:15:52.612 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.616 > 75
+00:15:52.616 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.623 > 76
+00:15:52.623 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.631 > 77
+00:15:52.631 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.634 > 78
+00:15:52.634 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.641 > 79
+00:15:52.641 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.645 > 80
+00:15:52.645 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.652 > 81
+00:15:52.652 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.656 > 82
+00:15:52.659 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.663 > 83
+00:15:52.663 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.670 > 84
+00:15:52.670 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.674 > 85
+00:15:52.674 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.681 > 86
+00:15:52.681 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.688 > 87
+00:15:52.688 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.692 > 88
+00:15:52.692 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.699 > 89
+00:15:52.699 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.703 > 90
+00:15:52.706 > positionA: 0    positionB: 160    positionC: 0
+00:15:52.710 > 160
+00:15:52.710 > positionA: 90    positionB: 160    positionC: 0
+00:15:52.717 > 0
+00:15:52.717 > positionA: 90    positionB: 160    positionC: 0
+00:15:53.719 > --------------------------------------------------------
+00:15:53.828 > Stop | servo y-axis (up) | servo turn 180 degree | gripper on
+00:15:53.830 > positionA: 90    positionB: 160    positionC: 0
+00:15:53.958 > 90
+00:15:53.959 > positionA: 90    positionB: 160    positionC: 0
+00:15:53.963 > 160
+00:15:53.963 > positionA: 90    positionB: 160    positionC: 0
+00:15:53.969 > 0
+00:15:53.969 > positionA: 90    positionB: 160    positionC: 0
+00:15:54.971 > --------------------------------------------------------
+00:15:55.088 > Stop | servo y-axis (up) | servo turn 180 degree | gripper on
+00:15:55.090 > positionA: 90    positionB: 160    positionC: 0
+00:15:55.218 > 90
+00:15:55.218 > positionA: 90    positionB: 160    positionC: 0
+00:15:55.222 > 160
+00:15:55.222 > positionA: 90    positionB: 160    positionC: 0
+00:15:55.229 > 0
+00:15:55.229 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.231 > --------------------------------------------------------
+00:15:56.348 > Stop | servo y-axis (up) | servo turn 180 degree | gripper on
+00:15:56.352 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.477 > 90
+00:15:56.478 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.481 > 89
+00:15:56.481 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.488 > 88
+00:15:56.488 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.492 > 87
+00:15:56.495 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.499 > 86
+00:15:56.499 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.506 > 85
+00:15:56.506 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.510 > 84
+00:15:56.513 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.517 > 83
+00:15:56.517 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.523 > 82
+00:15:56.523 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.528 > 81
+00:15:56.530 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.534 > 80
+00:15:56.534 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.541 > 79
+00:15:56.541 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.545 > 78
+00:15:56.548 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.552 > 77
+00:15:56.552 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.559 > 76
+00:15:56.559 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.563 > 75
+00:15:56.563 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.570 > 74
+00:15:56.570 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.577 > 73
+00:15:56.577 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.581 > 72
+00:15:56.581 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.588 > 71
+00:15:56.588 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.595 > 70
+00:15:56.595 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.599 > 69
+00:15:56.599 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.605 > 68
+00:15:56.605 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.612 > 67
+00:15:56.612 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.616 > 66
+00:15:56.616 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.623 > 65
+00:15:56.623 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.630 > 64
+00:15:56.630 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.634 > 63
+00:15:56.634 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.641 > 62
+00:15:56.641 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.648 > 61
+00:15:56.648 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.652 > 60
+00:15:56.652 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.659 > 59
+00:15:56.659 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.665 > 58
+00:15:56.665 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.670 > 57
+00:15:56.670 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.676 > 56
+00:15:56.676 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.681 > 55
+00:15:56.683 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.687 > 54
+00:15:56.687 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.694 > 53
+00:15:56.694 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.698 > 52
+00:15:56.701 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.705 > 51
+00:15:56.705 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.712 > 50
+00:15:56.712 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.716 > 49
+00:15:56.719 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.723 > 48
+00:15:56.723 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.730 > 47
+00:15:56.730 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.734 > 46
+00:15:56.737 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.741 > 45
+00:15:56.741 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.747 > 44
+00:15:56.747 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.752 > 43
+00:15:56.752 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.758 > 42
+00:15:56.758 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.765 > 41
+00:15:56.765 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.770 > 40
+00:15:56.770 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.776 > 39
+00:15:56.776 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.783 > 38
+00:15:56.783 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.787 > 37
+00:15:56.787 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.794 > 36
+00:15:56.794 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.801 > 35
+00:15:56.801 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.805 > 34
+00:15:56.805 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.812 > 33
+00:15:56.812 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.819 > 32
+00:15:56.819 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.823 > 31
+00:15:56.823 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.829 > 30
+00:15:56.829 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.836 > 29
+00:15:56.836 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.840 > 28
+00:15:56.840 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.847 > 27
+00:15:56.847 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.854 > 26
+00:15:56.854 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.858 > 25
+00:15:56.858 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.865 > 24
+00:15:56.865 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.869 > 23
+00:15:56.872 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.876 > 22
+00:15:56.876 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.883 > 21
+00:15:56.883 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.887 > 20
+00:15:56.890 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.894 > 19
+00:15:56.894 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.900 > 18
+00:15:56.900 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.905 > 17
+00:15:56.907 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.911 > 16
+00:15:56.911 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.918 > 15
+00:15:56.918 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.922 > 14
+00:15:56.925 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.929 > 13
+00:15:56.929 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.936 > 12
+00:15:56.936 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.940 > 11
+00:15:56.940 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.947 > 10
+00:15:56.947 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.954 > 9
+00:15:56.954 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.958 > 8
+00:15:56.958 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.965 > 7
+00:15:56.965 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.972 > 6
+00:15:56.972 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.976 > 5
+00:15:56.976 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.983 > 4
+00:15:56.983 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.987 > 3
+00:15:56.990 > positionA: 90    positionB: 160    positionC: 0
+00:15:56.994 > 2
+00:15:56.994 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.001 > 1
+00:15:57.001 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.005 > 0
+00:15:57.005 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.012 > 255
+00:15:57.012 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.018 > 254
+00:15:57.018 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.022 > 253
+00:15:57.022 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.029 > 252
+00:15:57.029 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.036 > 251
+00:15:57.036 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.040 > 250
+00:15:57.043 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.047 > 249
+00:15:57.047 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.054 > 248
+00:15:57.054 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.058 > 247
+00:15:57.060 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.065 > 246
+00:15:57.065 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.071 > 245
+00:15:57.071 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.075 > 244
+00:15:57.078 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.082 > 243
+00:15:57.082 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.089 > 242
+00:15:57.089 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.096 > 241
+00:15:57.096 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.100 > 240
+00:15:57.100 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.107 > 239
+00:15:57.107 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.114 > 238
+00:15:57.114 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.118 > 237
+00:15:57.118 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.125 > 236
+00:15:57.125 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.131 > 235
+00:15:57.131 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.135 > 234
+00:15:57.138 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.142 > 233
+00:15:57.142 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.149 > 232
+00:15:57.149 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.153 > 231
+00:15:57.156 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.160 > 230
+00:15:57.160 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.167 > 229
+00:15:57.167 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.171 > 228
+00:15:57.173 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.177 > 227
+00:15:57.177 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.184 > 226
+00:15:57.184 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.191 > 225
+00:15:57.191 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.195 > 224
+00:15:57.195 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.202 > 223
+00:15:57.202 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.209 > 222
+00:15:57.209 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.213 > 221
+00:15:57.213 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.220 > 220
+00:15:57.220 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.226 > 219
+00:15:57.226 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.230 > 218
+00:15:57.233 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.237 > 217
+00:15:57.237 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.244 > 216
+00:15:57.244 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.248 > 215
+00:15:57.251 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.255 > 214
+00:15:57.255 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.262 > 213
+00:15:57.262 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.266 > 212
+00:15:57.269 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.273 > 211
+00:15:57.273 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.279 > 210
+00:15:57.279 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.286 > 209
+00:15:57.286 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.290 > 208
+00:15:57.290 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.297 > 207
+00:15:57.297 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.304 > 206
+00:15:57.304 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.308 > 205
+00:15:57.308 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.315 > 204
+00:15:57.315 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.322 > 203
+00:15:57.322 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.326 > 202
+00:15:57.328 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.332 > 201
+00:15:57.332 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.339 > 200
+00:15:57.339 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.343 > 199
+00:15:57.346 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.350 > 198
+00:15:57.350 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.357 > 197
+00:15:57.357 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.361 > 196
+00:15:57.364 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.368 > 195
+00:15:57.368 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.375 > 194
+00:15:57.375 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.381 > 193
+00:15:57.381 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.386 > 192
+00:15:57.386 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.392 > 191
+00:15:57.392 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.399 > 190
+00:15:57.399 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.403 > 189
+00:15:57.403 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.410 > 188
+00:15:57.410 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.417 > 187
+00:15:57.417 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.421 > 186
+00:15:57.423 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.428 > 185
+00:15:57.428 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.434 > 184
+00:15:57.434 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.439 > 183
+00:15:57.441 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.445 > 182
+00:15:57.445 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.452 > 181
+00:15:57.452 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.456 > 180
+00:15:57.459 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.463 > 179
+00:15:57.463 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.470 > 178
+00:15:57.470 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.477 > 177
+00:15:57.477 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.481 > 176
+00:15:57.481 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.487 > 175
+00:15:57.487 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.494 > 174
+00:15:57.494 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.498 > 173
+00:15:57.498 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.505 > 172
+00:15:57.505 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.512 > 171
+00:15:57.512 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.516 > 170
+00:15:57.519 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.523 > 169
+00:15:57.523 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.530 > 168
+00:15:57.530 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.534 > 167
+00:15:57.536 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.541 > 166
+00:15:57.541 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.547 > 165
+00:15:57.547 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.551 > 164
+00:15:57.554 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.558 > 163
+00:15:57.558 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.565 > 162
+00:15:57.565 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.572 > 161
+00:15:57.572 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.576 > 160
+00:15:57.576 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.583 > 159
+00:15:57.583 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.590 > 158
+00:15:57.590 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.594 > 157
+00:15:57.594 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.600 > 156
+00:15:57.600 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.607 > 155
+00:15:57.607 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.611 > 154
+00:15:57.614 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.618 > 153
+00:15:57.618 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.625 > 152
+00:15:57.625 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.629 > 151
+00:15:57.632 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.636 > 150
+00:15:57.636 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.643 > 149
+00:15:57.643 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.647 > 148
+00:15:57.649 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.654 > 147
+00:15:57.654 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.660 > 146
+00:15:57.660 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.667 > 145
+00:15:57.667 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.671 > 144
+00:15:57.671 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.678 > 143
+00:15:57.678 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.685 > 142
+00:15:57.685 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.689 > 141
+00:15:57.689 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.696 > 140
+00:15:57.696 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.702 > 139
+00:15:57.702 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.706 > 138
+00:15:57.709 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.713 > 137
+00:15:57.713 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.720 > 136
+00:15:57.720 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.724 > 135
+00:15:57.727 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.731 > 134
+00:15:57.731 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.738 > 133
+00:15:57.738 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.742 > 132
+00:15:57.744 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.748 > 131
+00:15:57.748 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.755 > 130
+00:15:57.755 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.762 > 129
+00:15:57.762 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.766 > 128
+00:15:57.766 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.773 > 127
+00:15:57.773 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.780 > 126
+00:15:57.780 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.784 > 125
+00:15:57.784 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.791 > 124
+00:15:57.791 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.797 > 123
+00:15:57.797 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.802 > 122
+00:15:57.804 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.808 > 121
+00:15:57.808 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.815 > 120
+00:15:57.815 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.819 > 119
+00:15:57.822 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.826 > 118
+00:15:57.826 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.833 > 117
+00:15:57.833 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.837 > 116
+00:15:57.840 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.844 > 115
+00:15:57.844 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.850 > 114
+00:15:57.850 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.857 > 113
+00:15:57.857 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.862 > 112
+00:15:57.862 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.868 > 111
+00:15:57.868 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.875 > 110
+00:15:57.875 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.879 > 109
+00:15:57.879 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.886 > 108
+00:15:57.886 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.893 > 107
+00:15:57.893 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.897 > 106
+00:15:57.899 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.904 > 105
+00:15:57.904 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.910 > 104
+00:15:57.910 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.915 > 103
+00:15:57.917 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.921 > 102
+00:15:57.921 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.928 > 101
+00:15:57.928 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.932 > 100
+00:15:57.935 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.939 > 99
+00:15:57.939 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.946 > 98
+00:15:57.946 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.950 > 97
+00:15:57.953 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.957 > 96
+00:15:57.957 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.964 > 95
+00:15:57.964 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.968 > 94
+00:15:57.970 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.975 > 93
+00:15:57.975 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.981 > 92
+00:15:57.981 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.985 > 91
+00:15:57.988 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.992 > 90
+00:15:57.992 > positionA: 90    positionB: 160    positionC: 0
+00:15:57.999 > 89
+00:15:57.999 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.003 > 88
+00:15:58.006 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.010 > 87
+00:15:58.010 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.017 > 86
+00:15:58.017 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.021 > 85
+00:15:58.021 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.028 > 84
+00:15:58.028 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.035 > 83
+00:15:58.035 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.039 > 82
+00:15:58.039 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.046 > 81
+00:15:58.046 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.052 > 80
+00:15:58.052 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.057 > 79
+00:15:58.057 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.063 > 78
+00:15:58.063 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.070 > 77
+00:15:58.070 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.074 > 76
+00:15:58.074 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.081 > 75
+00:15:58.081 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.088 > 74
+00:15:58.088 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.092 > 73
+00:15:58.092 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.099 > 72
+00:15:58.099 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.106 > 71
+00:15:58.106 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.110 > 70
+00:15:58.110 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.117 > 69
+00:15:58.117 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.123 > 68
+00:15:58.124 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.128 > 67
+00:15:58.128 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.134 > 66
+00:15:58.134 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.139 > 65
+00:15:58.141 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.145 > 64
+00:15:58.145 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.152 > 63
+00:15:58.152 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.156 > 62
+00:15:58.159 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.163 > 61
+00:15:58.163 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.170 > 60
+00:15:58.170 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.174 > 59
+00:15:58.177 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.181 > 58
+00:15:58.181 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.188 > 57
+00:15:58.188 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.192 > 56
+00:15:58.194 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.199 > 55
+00:15:58.199 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.205 > 54
+00:15:58.205 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.210 > 53
+00:15:58.210 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.216 > 52
+00:15:58.216 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.223 > 51
+00:15:58.223 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.227 > 50
+00:15:58.227 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.234 > 49
+00:15:58.234 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.241 > 48
+00:15:58.241 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.245 > 47
+00:15:58.245 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.252 > 46
+00:15:58.252 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.259 > 45
+00:15:58.259 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.263 > 44
+00:15:58.263 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.270 > 43
+00:15:58.270 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.276 > 42
+00:15:58.276 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.281 > 41
+00:15:58.281 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.287 > 40
+00:15:58.287 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.294 > 39
+00:15:58.294 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.298 > 38
+00:15:58.298 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.305 > 37
+00:15:58.305 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.312 > 36
+00:15:58.312 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.316 > 35
+00:15:58.316 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.323 > 34
+00:15:58.323 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.327 > 33
+00:15:58.330 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.334 > 32
+00:15:58.334 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.341 > 31
+00:15:58.341 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.345 > 30
+00:15:58.347 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.352 > 29
+00:15:58.352 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.358 > 28
+00:15:58.358 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.363 > 27
+00:15:58.365 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.369 > 26
+00:15:58.369 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.376 > 25
+00:15:58.376 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.380 > 24
+00:15:58.383 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.387 > 23
+00:15:58.387 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.394 > 22
+00:15:58.394 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.398 > 21
+00:15:58.398 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.405 > 20
+00:15:58.405 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.412 > 19
+00:15:58.412 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.416 > 18
+00:15:58.416 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.423 > 17
+00:15:58.423 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.430 > 16
+00:15:58.430 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.434 > 15
+00:15:58.434 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.440 > 14
+00:15:58.440 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.447 > 13
+00:15:58.447 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.451 > 12
+00:15:58.451 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.458 > 11
+00:15:58.458 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.465 > 10
+00:15:58.465 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.469 > 9
+00:15:58.469 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.476 > 8
+00:15:58.476 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.480 > 7
+00:15:58.483 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.487 > 6
+00:15:58.487 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.494 > 5
+00:15:58.494 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.498 > 4
+00:15:58.498 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.505 > 3
+00:15:58.505 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.512 > 2
+00:15:58.512 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.516 > 1
+00:15:58.516 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.523 > 0
+00:15:58.523 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.527 > 255
+00:15:58.530 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.534 > 254
+00:15:58.534 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.541 > 253
+00:15:58.541 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.547 > 252
+00:15:58.547 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.551 > 251
+00:15:58.551 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.558 > 250
+00:15:58.558 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.565 > 249
+00:15:58.565 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.569 > 248
+00:15:58.569 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.576 > 247
+00:15:58.576 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.583 > 246
+00:15:58.583 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.587 > 245
+00:15:58.589 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.593 > 244
+00:15:58.593 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.600 > 243
+00:15:58.600 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.604 > 242
+00:15:58.607 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.611 > 241
+00:15:58.611 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.618 > 240
+00:15:58.618 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.622 > 239
+00:15:58.625 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.629 > 238
+00:15:58.629 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.636 > 237
+00:15:58.636 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.642 > 236
+00:15:58.642 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.647 > 235
+00:15:58.647 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.653 > 234
+00:15:58.653 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.660 > 233
+00:15:58.660 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.664 > 232
+00:15:58.664 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.671 > 231
+00:15:58.671 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.678 > 230
+00:15:58.678 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.682 > 229
+00:15:58.685 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.689 > 228
+00:15:58.689 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.696 > 227
+00:15:58.696 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.700 > 226
+00:15:58.702 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.706 > 225
+00:15:58.706 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.713 > 224
+00:15:58.713 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.717 > 223
+00:15:58.720 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.724 > 222
+00:15:58.724 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.731 > 221
+00:15:58.731 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.738 > 220
+00:15:58.738 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.742 > 219
+00:15:58.742 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.749 > 218
+00:15:58.749 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.755 > 217
+00:15:58.755 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.759 > 216
+00:15:58.759 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.766 > 215
+00:15:58.766 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.773 > 214
+00:15:58.773 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.777 > 213
+00:15:58.780 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.784 > 212
+00:15:58.784 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.791 > 211
+00:15:58.791 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.795 > 210
+00:15:58.797 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.802 > 209
+00:15:58.802 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.808 > 208
+00:15:58.808 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.812 > 207
+00:15:58.815 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.819 > 206
+00:15:58.819 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.826 > 205
+00:15:58.826 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.833 > 204
+00:15:58.833 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.837 > 203
+00:15:58.837 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.844 > 202
+00:15:58.844 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.850 > 201
+00:15:58.850 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.855 > 200
+00:15:58.855 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.861 > 199
+00:15:58.861 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.868 > 198
+00:15:58.868 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.872 > 197
+00:15:58.875 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.879 > 196
+00:15:58.879 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.886 > 195
+00:15:58.886 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.890 > 194
+00:15:58.893 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.897 > 193
+00:15:58.897 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.904 > 192
+00:15:58.904 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.908 > 191
+00:15:58.910 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.914 > 190
+00:15:58.914 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.921 > 189
+00:15:58.921 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.928 > 188
+00:15:58.928 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.932 > 187
+00:15:58.932 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.939 > 186
+00:15:58.939 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.946 > 185
+00:15:58.946 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.950 > 184
+00:15:58.950 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.957 > 183
+00:15:58.957 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.963 > 182
+00:15:58.963 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.967 > 181
+00:15:58.970 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.974 > 180
+00:15:58.974 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.981 > 179
+00:15:58.981 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.985 > 178
+00:15:58.988 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.992 > 177
+00:15:58.992 > positionA: 90    positionB: 160    positionC: 0
+00:15:58.999 > 176
+00:15:58.999 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.003 > 175
+00:15:59.006 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.010 > 174
+00:15:59.010 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.016 > 173
+00:15:59.016 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.023 > 172
+00:15:59.023 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.027 > 171
+00:15:59.027 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.034 > 170
+00:15:59.034 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.041 > 169
+00:15:59.041 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.045 > 168
+00:15:59.045 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.052 > 167
+00:15:59.052 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.059 > 166
+00:15:59.059 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.063 > 165
+00:15:59.065 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.070 > 164
+00:15:59.070 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.076 > 163
+00:15:59.076 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.080 > 162
+00:15:59.083 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.087 > 161
+00:15:59.087 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.094 > 160
+00:15:59.094 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.098 > 159
+00:15:59.101 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.105 > 158
+00:15:59.105 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.112 > 157
+00:15:59.112 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.119 > 156
+00:15:59.119 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.123 > 155
+00:15:59.123 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.129 > 154
+00:15:59.129 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.136 > 153
+00:15:59.136 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.140 > 152
+00:15:59.140 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.147 > 151
+00:15:59.147 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.154 > 150
+00:15:59.154 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.158 > 149
+00:15:59.161 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.165 > 148
+00:15:59.165 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.172 > 147
+00:15:59.172 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.176 > 146
+00:15:59.178 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.182 > 145
+00:15:59.182 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.189 > 144
+00:15:59.189 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.193 > 143
+00:15:59.196 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.200 > 142
+00:15:59.200 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.207 > 141
+00:15:59.207 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.214 > 140
+00:15:59.214 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.218 > 139
+00:15:59.218 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.225 > 138
+00:15:59.225 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.231 > 137
+00:15:59.231 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.235 > 136
+00:15:59.235 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.242 > 135
+00:15:59.242 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.249 > 134
+00:15:59.249 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.253 > 133
+00:15:59.256 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.260 > 132
+00:15:59.260 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.267 > 131
+00:15:59.267 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.271 > 130
+00:15:59.273 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.278 > 129
+00:15:59.278 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.284 > 128
+00:15:59.284 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.289 > 127
+00:15:59.291 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.295 > 126
+00:15:59.295 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.302 > 125
+00:15:59.302 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.309 > 124
+00:15:59.309 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.313 > 123
+00:15:59.313 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.320 > 122
+00:15:59.320 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.327 > 121
+00:15:59.327 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.331 > 120
+00:15:59.331 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.337 > 119
+00:15:59.337 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.344 > 118
+00:15:59.344 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.352 > 117
+00:15:59.352 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.372 > 116
+00:15:59.372 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.372 > 115
+00:15:59.372 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.372 > 114
+00:15:59.372 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.373 > 113
+00:15:59.373 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.380 > 112
+00:15:59.380 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.384 > 111
+00:15:59.386 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.390 > 110
+00:15:59.390 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.397 > 109
+00:15:59.397 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.404 > 108
+00:15:59.404 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.408 > 107
+00:15:59.408 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.415 > 106
+00:15:59.415 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.422 > 105
+00:15:59.422 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.426 > 104
+00:15:59.426 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.433 > 103
+00:15:59.433 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.439 > 102
+00:15:59.439 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.444 > 101
+00:15:59.446 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.450 > 100
+00:15:59.450 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.457 > 99
+00:15:59.457 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.461 > 98
+00:15:59.464 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.468 > 97
+00:15:59.468 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.475 > 96
+00:15:59.475 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.479 > 95
+00:15:59.479 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.486 > 94
+00:15:59.486 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.493 > 93
+00:15:59.493 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.497 > 92
+00:15:59.497 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.504 > 91
+00:15:59.504 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.510 > 90
+00:15:59.510 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.514 > 89
+00:15:59.514 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.521 > 88
+00:15:59.521 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.528 > 87
+00:15:59.528 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.532 > 86
+00:15:59.532 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.539 > 85
+00:15:59.539 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.546 > 84
+00:15:59.546 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.550 > 83
+00:15:59.550 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.557 > 82
+00:15:59.557 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.564 > 81
+00:15:59.564 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.568 > 80
+00:15:59.568 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.575 > 79
+00:15:59.575 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.581 > 78
+00:15:59.581 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.586 > 77
+00:15:59.586 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.592 > 76
+00:15:59.592 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.596 > 75
+00:15:59.599 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.603 > 74
+00:15:59.603 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.610 > 73
+00:15:59.610 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.614 > 72
+00:15:59.617 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.621 > 71
+00:15:59.621 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.628 > 70
+00:15:59.628 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.632 > 69
+00:15:59.635 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.639 > 68
+00:15:59.639 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.646 > 67
+00:15:59.646 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.650 > 66
+00:15:59.652 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.657 > 65
+00:15:59.657 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.663 > 64
+00:15:59.663 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.667 > 63
+00:15:59.667 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.674 > 62
+00:15:59.674 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.681 > 61
+00:15:59.681 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.685 > 60
+00:15:59.685 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.692 > 59
+00:15:59.692 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.699 > 58
+00:15:59.699 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.703 > 57
+00:15:59.703 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.710 > 56
+00:15:59.710 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.717 > 55
+00:15:59.717 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.721 > 54
+00:15:59.721 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.728 > 53
+00:15:59.728 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.734 > 52
+00:15:59.734 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.739 > 51
+00:15:59.739 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.745 > 50
+00:15:59.745 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.752 > 49
+00:15:59.752 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.756 > 48
+00:15:59.756 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.763 > 47
+00:15:59.763 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.770 > 46
+00:15:59.770 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.774 > 45
+00:15:59.774 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.781 > 44
+00:15:59.781 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.785 > 43
+00:15:59.788 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.792 > 42
+00:15:59.792 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.799 > 41
+00:15:59.799 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.803 > 40
+00:15:59.805 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.810 > 39
+00:15:59.810 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.816 > 38
+00:15:59.816 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.821 > 37
+00:15:59.823 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.827 > 36
+00:15:59.827 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.834 > 35
+00:15:59.834 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.838 > 34
+00:15:59.841 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.845 > 33
+00:15:59.845 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.852 > 32
+00:15:59.852 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.856 > 31
+00:15:59.856 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.863 > 30
+00:15:59.863 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.870 > 29
+00:15:59.870 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.874 > 28
+00:15:59.874 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.881 > 27
+00:15:59.881 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.888 > 26
+00:15:59.888 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.892 > 25
+00:15:59.892 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.898 > 24
+00:15:59.898 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.905 > 23
+00:15:59.905 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.909 > 22
+00:15:59.909 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.916 > 21
+00:15:59.916 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.923 > 20
+00:15:59.923 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.927 > 19
+00:15:59.927 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.934 > 18
+00:15:59.934 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.941 > 17
+00:15:59.941 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.945 > 16
+00:15:59.945 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.952 > 15
+00:15:59.952 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.958 > 14
+00:15:59.958 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.963 > 13
+00:15:59.963 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.970 > 12
+00:15:59.970 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.973 > 11
+00:15:59.976 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.980 > 10
+00:15:59.980 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.987 > 9
+00:15:59.987 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.991 > 8
+00:15:59.994 > positionA: 90    positionB: 160    positionC: 0
+00:15:59.998 > 7
+00:15:59.998 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.005 > 6
+00:16:00.005 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.009 > 5
+00:16:00.009 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.016 > 4
+00:16:00.016 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.023 > 3
+00:16:00.023 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.027 > 2
+00:16:00.027 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.034 > 1
+00:16:00.034 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.038 > 0
+00:16:00.041 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.045 > 255
+00:16:00.045 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.052 > 254
+00:16:00.052 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.056 > 253
+00:16:00.058 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.063 > 252
+00:16:00.063 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.069 > 251
+00:16:00.069 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.074 > 250
+00:16:00.076 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.080 > 249
+00:16:00.080 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.087 > 248
+00:16:00.087 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.094 > 247
+00:16:00.094 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.098 > 246
+00:16:00.098 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.105 > 245
+00:16:00.105 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.112 > 244
+00:16:00.112 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.116 > 243
+00:16:00.116 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.122 > 242
+00:16:00.122 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.129 > 241
+00:16:00.129 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.133 > 240
+00:16:00.136 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.140 > 239
+00:16:00.140 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.147 > 238
+00:16:00.147 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.151 > 237
+00:16:00.154 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.158 > 236
+00:16:00.158 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.165 > 235
+00:16:00.165 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.169 > 234
+00:16:00.171 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.175 > 233
+00:16:00.175 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.182 > 232
+00:16:00.182 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.189 > 231
+00:16:00.189 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.193 > 230
+00:16:00.193 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.200 > 229
+00:16:00.200 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.207 > 228
+00:16:00.207 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.211 > 227
+00:16:00.211 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.218 > 226
+00:16:00.218 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.224 > 225
+00:16:00.224 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.228 > 224
+00:16:00.231 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.235 > 223
+00:16:00.235 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.242 > 222
+00:16:00.242 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.246 > 221
+00:16:00.249 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.253 > 220
+00:16:00.253 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.260 > 219
+00:16:00.260 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.264 > 218
+00:16:00.266 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.271 > 217
+00:16:00.271 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.277 > 216
+00:16:00.277 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.284 > 215
+00:16:00.284 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.288 > 214
+00:16:00.288 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.295 > 213
+00:16:00.295 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.302 > 212
+00:16:00.302 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.306 > 211
+00:16:00.306 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.313 > 210
+00:16:00.313 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.320 > 209
+00:16:00.320 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.324 > 208
+00:16:00.326 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.330 > 207
+00:16:00.330 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.337 > 206
+00:16:00.337 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.341 > 205
+00:16:00.344 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.348 > 204
+00:16:00.348 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.355 > 203
+00:16:00.355 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.359 > 202
+00:16:00.362 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.366 > 201
+00:16:00.366 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.373 > 200
+00:16:00.373 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.379 > 199
+00:16:00.379 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.383 > 198
+00:16:00.383 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.390 > 197
+00:16:00.390 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.397 > 196
+00:16:00.397 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.401 > 195
+00:16:00.401 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.408 > 194
+00:16:00.408 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.415 > 193
+00:16:00.415 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.419 > 192
+00:16:00.422 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.426 > 191
+00:16:00.426 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.432 > 190
+00:16:00.432 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.437 > 189
+00:16:00.439 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.443 > 188
+00:16:00.443 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.450 > 187
+00:16:00.450 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.454 > 186
+00:16:00.457 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.461 > 185
+00:16:00.461 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.468 > 184
+00:16:00.468 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.475 > 183
+00:16:00.475 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.479 > 182
+00:16:00.479 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.486 > 181
+00:16:00.486 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.492 > 180
+00:16:00.492 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.496 > 179
+00:16:00.496 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.503 > 178
+00:16:00.503 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.510 > 177
+00:16:00.510 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.514 > 176
+00:16:00.517 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.521 > 175
+00:16:00.521 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.528 > 174
+00:16:00.528 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.532 > 173
+00:16:00.534 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.539 > 172
+00:16:00.539 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.545 > 171
+00:16:00.545 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.549 > 170
+00:16:00.552 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.556 > 169
+00:16:00.556 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.563 > 168
+00:16:00.563 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.570 > 167
+00:16:00.570 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.574 > 166
+00:16:00.574 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.581 > 165
+00:16:00.581 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.588 > 164
+00:16:00.588 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.592 > 163
+00:16:00.592 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.598 > 162
+00:16:00.598 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.605 > 161
+00:16:00.605 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.609 > 160
+00:16:00.612 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.616 > 159
+00:16:00.616 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.623 > 158
+00:16:00.623 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.627 > 157
+00:16:00.630 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.634 > 156
+00:16:00.634 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.640 > 155
+00:16:00.640 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.645 > 154
+00:16:00.647 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.651 > 153
+00:16:00.651 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.658 > 152
+00:16:00.658 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.665 > 151
+00:16:00.665 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.669 > 150
+00:16:00.669 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.676 > 149
+00:16:00.676 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.683 > 148
+00:16:00.683 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.687 > 147
+00:16:00.687 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.694 > 146
+00:16:00.694 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.700 > 145
+00:16:00.700 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.704 > 144
+00:16:00.707 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.711 > 143
+00:16:00.711 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.718 > 142
+00:16:00.718 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.722 > 141
+00:16:00.725 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.729 > 140
+00:16:00.729 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.736 > 139
+00:16:00.736 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.740 > 138
+00:16:00.742 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.747 > 137
+00:16:00.747 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.753 > 136
+00:16:00.753 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.760 > 135
+00:16:00.760 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.764 > 134
+00:16:00.764 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.771 > 133
+00:16:00.771 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.778 > 132
+00:16:00.778 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.782 > 131
+00:16:00.782 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.789 > 130
+00:16:00.789 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.796 > 129
+00:16:00.796 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.800 > 128
+00:16:00.802 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.807 > 127
+00:16:00.807 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.813 > 126
+00:16:00.813 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.817 > 125
+00:16:00.820 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.824 > 124
+00:16:00.824 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.831 > 123
+00:16:00.831 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.835 > 122
+00:16:00.838 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.842 > 121
+00:16:00.842 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.849 > 120
+00:16:00.849 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.855 > 119
+00:16:00.855 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.859 > 118
+00:16:00.859 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.866 > 117
+00:16:00.866 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.873 > 116
+00:16:00.873 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.877 > 115
+00:16:00.877 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.884 > 114
+00:16:00.884 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.891 > 113
+00:16:00.891 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.895 > 112
+00:16:00.897 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.902 > 111
+00:16:00.902 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.908 > 110
+00:16:00.908 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.913 > 109
+00:16:00.915 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.919 > 108
+00:16:00.919 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.926 > 107
+00:16:00.926 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.930 > 106
+00:16:00.933 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.937 > 105
+00:16:00.937 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.944 > 104
+00:16:00.944 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.951 > 103
+00:16:00.951 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.955 > 102
+00:16:00.955 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.961 > 101
+00:16:00.961 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.968 > 100
+00:16:00.968 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.972 > 99
+00:16:00.972 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.979 > 98
+00:16:00.979 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.986 > 97
+00:16:00.986 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.990 > 96
+00:16:00.990 > positionA: 90    positionB: 160    positionC: 0
+00:16:00.997 > 95
+00:16:00.997 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.004 > 94
+00:16:01.004 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.008 > 93
+00:16:01.008 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.015 > 92
+00:16:01.015 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.022 > 91
+00:16:01.022 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.026 > 90
+00:16:01.026 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.032 > 89
+00:16:01.032 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.039 > 88
+00:16:01.039 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.043 > 87
+00:16:01.043 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.050 > 86
+00:16:01.050 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.054 > 85
+00:16:01.057 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.061 > 84
+00:16:01.061 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.068 > 83
+00:16:01.068 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.072 > 82
+00:16:01.075 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.079 > 81
+00:16:01.079 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.086 > 80
+00:16:01.086 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.090 > 79
+00:16:01.092 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.097 > 78
+00:16:01.097 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.103 > 77
+00:16:01.103 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.108 > 76
+00:16:01.110 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.114 > 75
+00:16:01.114 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.121 > 74
+00:16:01.121 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.125 > 73
+00:16:01.125 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.132 > 72
+00:16:01.132 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.139 > 71
+00:16:01.139 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.143 > 70
+00:16:01.143 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.150 > 69
+00:16:01.150 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.157 > 68
+00:16:01.157 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.161 > 67
+00:16:01.161 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.168 > 66
+00:16:01.168 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.175 > 65
+00:16:01.175 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.179 > 64
+00:16:01.179 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.185 > 63
+00:16:01.185 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.192 > 62
+00:16:01.192 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.196 > 61
+00:16:01.196 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.203 > 60
+00:16:01.203 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.211 > 59
+00:16:01.211 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.214 > 58
+00:16:01.214 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.221 > 57
+00:16:01.221 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.228 > 56
+00:16:01.228 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.232 > 55
+00:16:01.232 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.240 > 54
+00:16:01.240 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.243 > 53
+00:16:01.246 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.250 > 52
+00:16:01.250 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.257 > 51
+00:16:01.257 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.261 > 50
+00:16:01.263 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.269 > 49
+00:16:01.269 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.275 > 48
+00:16:01.275 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.278 > 47
+00:16:01.281 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.285 > 46
+00:16:01.285 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.292 > 45
+00:16:01.292 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.296 > 44
+00:16:01.299 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.303 > 43
+00:16:01.303 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.310 > 42
+00:16:01.310 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.314 > 41
+00:16:01.314 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.321 > 40
+00:16:01.321 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.328 > 39
+00:16:01.328 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.332 > 38
+00:16:01.332 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.339 > 37
+00:16:01.339 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.345 > 36
+00:16:01.345 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.349 > 35
+00:16:01.349 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.356 > 34
+00:16:01.356 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.363 > 33
+00:16:01.363 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.367 > 32
+00:16:01.367 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.374 > 31
+00:16:01.374 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.381 > 30
+00:16:01.381 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.385 > 29
+00:16:01.385 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.392 > 28
+00:16:01.392 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.399 > 27
+00:16:01.399 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.403 > 26
+00:16:01.403 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.410 > 25
+00:16:01.410 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.416 > 24
+00:16:01.416 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.421 > 23
+00:16:01.421 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.427 > 22
+00:16:01.427 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.431 > 21
+00:16:01.434 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.438 > 20
+00:16:01.438 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.445 > 19
+00:16:01.445 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.449 > 18
+00:16:01.452 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.456 > 17
+00:16:01.456 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.463 > 16
+00:16:01.463 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.467 > 15
+00:16:01.470 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.474 > 14
+00:16:01.474 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.481 > 13
+00:16:01.481 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.485 > 12
+00:16:01.487 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.491 > 11
+00:16:01.491 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.498 > 10
+00:16:01.498 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.503 > 9
+00:16:01.503 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.509 > 8
+00:16:01.509 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.516 > 7
+00:16:01.516 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.520 > 6
+00:16:01.520 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.527 > 5
+00:16:01.527 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.531 > 4
+00:16:01.534 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.538 > 3
+00:16:01.538 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.545 > 2
+00:16:01.545 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.549 > 1
+00:16:01.549 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.556 > 0
+00:16:01.556 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.563 > 255
+00:16:01.563 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.567 > 254
+00:16:01.567 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.574 > 253
+00:16:01.574 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.581 > 252
+00:16:01.581 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.585 > 251
+00:16:01.587 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.591 > 250
+00:16:01.591 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.598 > 249
+00:16:01.598 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.602 > 248
+00:16:01.605 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.609 > 247
+00:16:01.609 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.616 > 246
+00:16:01.616 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.620 > 245
+00:16:01.623 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.627 > 244
+00:16:01.627 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.634 > 243
+00:16:01.634 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.640 > 242
+00:16:01.640 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.645 > 241
+00:16:01.645 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.651 > 240
+00:16:01.651 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.658 > 239
+00:16:01.658 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.662 > 238
+00:16:01.662 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.669 > 237
+00:16:01.669 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.676 > 236
+00:16:01.676 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.680 > 235
+00:16:01.683 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.687 > 234
+00:16:01.687 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.693 > 233
+00:16:01.693 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.697 > 232
+00:16:01.700 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.704 > 231
+00:16:01.704 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.711 > 230
+00:16:01.711 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.715 > 229
+00:16:01.718 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.722 > 228
+00:16:01.722 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.729 > 227
+00:16:01.729 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.736 > 226
+00:16:01.736 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.740 > 225
+00:16:01.740 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.746 > 224
+00:16:01.746 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.753 > 223
+00:16:01.753 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.757 > 222
+00:16:01.757 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.764 > 221
+00:16:01.764 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.771 > 220
+00:16:01.771 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.775 > 219
+00:16:01.778 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.782 > 218
+00:16:01.782 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.789 > 217
+00:16:01.789 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.793 > 216
+00:16:01.795 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.800 > 215
+00:16:01.800 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.806 > 214
+00:16:01.806 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.810 > 213
+00:16:01.813 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.817 > 212
+00:16:01.817 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.824 > 211
+00:16:01.824 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.831 > 210
+00:16:01.831 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.835 > 209
+00:16:01.835 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.842 > 208
+00:16:01.842 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.848 > 207
+00:16:01.848 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.853 > 206
+00:16:01.853 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.859 > 205
+00:16:01.859 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.866 > 204
+00:16:01.866 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.870 > 203
+00:16:01.873 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.877 > 202
+00:16:01.877 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.884 > 201
+00:16:01.884 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.888 > 200
+00:16:01.891 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.895 > 199
+00:16:01.895 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.902 > 198
+00:16:01.902 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.906 > 197
+00:16:01.908 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.912 > 196
+00:16:01.912 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.919 > 195
+00:16:01.919 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.926 > 194
+00:16:01.926 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.930 > 193
+00:16:01.930 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.937 > 192
+00:16:01.937 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.944 > 191
+00:16:01.944 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.948 > 190
+00:16:01.948 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.955 > 189
+00:16:01.955 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.961 > 188
+00:16:01.961 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.965 > 187
+00:16:01.968 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.972 > 186
+00:16:01.972 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.979 > 185
+00:16:01.979 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.983 > 184
+00:16:01.986 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.990 > 183
+00:16:01.990 > positionA: 90    positionB: 160    positionC: 0
+00:16:01.997 > 182
+00:16:01.997 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.001 > 181
+00:16:02.004 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.008 > 180
+00:16:02.008 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.014 > 179
+00:16:02.014 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.021 > 178
+00:16:02.021 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.025 > 177
+00:16:02.025 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.032 > 176
+00:16:02.032 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.039 > 175
+00:16:02.039 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.043 > 174
+00:16:02.043 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.050 > 173
+00:16:02.050 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.057 > 172
+00:16:02.057 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.061 > 171
+00:16:02.063 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.067 > 170
+00:16:02.067 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.074 > 169
+00:16:02.074 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.078 > 168
+00:16:02.081 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.085 > 167
+00:16:02.085 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.092 > 166
+00:16:02.092 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.096 > 165
+00:16:02.099 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.103 > 164
+00:16:02.103 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.110 > 163
+00:16:02.110 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.116 > 162
+00:16:02.116 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.121 > 161
+00:16:02.121 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.127 > 160
+00:16:02.127 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.134 > 159
+00:16:02.134 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.138 > 158
+00:16:02.138 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.145 > 157
+00:16:02.145 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.152 > 156
+00:16:02.152 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.156 > 155
+00:16:02.159 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.163 > 154
+00:16:02.163 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.170 > 153
+00:16:02.170 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.174 > 152
+00:16:02.176 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.180 > 151
+00:16:02.180 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.187 > 150
+00:16:02.187 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.191 > 149
+00:16:02.194 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.198 > 148
+00:16:02.198 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.205 > 147
+00:16:02.205 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.212 > 146
+00:16:02.212 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.216 > 145
+00:16:02.216 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.223 > 144
+00:16:02.223 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.229 > 143
+00:16:02.229 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.233 > 142
+00:16:02.233 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.240 > 141
+00:16:02.240 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.247 > 140
+00:16:02.247 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.251 > 139
+00:16:02.254 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.258 > 138
+00:16:02.258 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.265 > 137
+00:16:02.265 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.269 > 136
+00:16:02.271 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.276 > 135
+00:16:02.276 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.282 > 134
+00:16:02.282 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.286 > 133
+00:16:02.289 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.293 > 132
+00:16:02.293 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.300 > 131
+00:16:02.300 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.307 > 130
+00:16:02.307 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.311 > 129
+00:16:02.311 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.318 > 128
+00:16:02.318 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.324 > 127
+00:16:02.324 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.329 > 126
+00:16:02.329 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.335 > 125
+00:16:02.335 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.342 > 124
+00:16:02.342 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.346 > 123
+00:16:02.349 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.353 > 122
+00:16:02.353 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.360 > 121
+00:16:02.360 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.364 > 120
+00:16:02.367 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.371 > 119
+00:16:02.371 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.378 > 118
+00:16:02.378 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.382 > 117
+00:16:02.384 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.388 > 116
+00:16:02.388 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.395 > 115
+00:16:02.395 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.402 > 114
+00:16:02.402 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.406 > 113
+00:16:02.406 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.413 > 112
+00:16:02.413 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.420 > 111
+00:16:02.420 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.424 > 110
+00:16:02.424 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.431 > 109
+00:16:02.431 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.437 > 108
+00:16:02.437 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.441 > 107
+00:16:02.444 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.448 > 106
+00:16:02.448 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.455 > 105
+00:16:02.455 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.459 > 104
+00:16:02.462 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.466 > 103
+00:16:02.466 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.473 > 102
+00:16:02.473 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.477 > 101
+00:16:02.480 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.484 > 100
+00:16:02.484 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.490 > 99
+00:16:02.490 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.497 > 98
+00:16:02.497 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.501 > 97
+00:16:02.501 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.508 > 96
+00:16:02.508 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.512 > 95
+00:16:02.515 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.519 > 94
+00:16:02.519 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.526 > 93
+00:16:02.526 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.530 > 92
+00:16:02.533 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.537 > 91
+00:16:02.537 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.544 > 90
+00:16:02.544 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.548 > 89
+00:16:02.550 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.555 > 88
+00:16:02.555 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.561 > 87
+00:16:02.561 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.566 > 86
+00:16:02.568 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.572 > 85
+00:16:02.572 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.579 > 84
+00:16:02.579 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.583 > 83
+00:16:02.583 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.590 > 82
+00:16:02.590 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.597 > 81
+00:16:02.597 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.601 > 80
+00:16:02.601 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.608 > 79
+00:16:02.608 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.615 > 78
+00:16:02.615 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.619 > 77
+00:16:02.619 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.626 > 76
+00:16:02.626 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.632 > 75
+00:16:02.632 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.637 > 74
+00:16:02.637 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.643 > 73
+00:16:02.643 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.650 > 72
+00:16:02.650 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.654 > 71
+00:16:02.654 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.661 > 70
+00:16:02.661 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.668 > 69
+00:16:02.668 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.672 > 68
+00:16:02.672 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.679 > 67
+00:16:02.679 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.686 > 66
+00:16:02.686 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.690 > 65
+00:16:02.690 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.697 > 64
+00:16:02.697 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.701 > 63
+00:16:02.704 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.708 > 62
+00:16:02.708 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.714 > 61
+00:16:02.714 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.719 > 60
+00:16:02.721 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.725 > 59
+00:16:02.725 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.732 > 58
+00:16:02.732 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.736 > 57
+00:16:02.739 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.743 > 56
+00:16:02.743 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.750 > 55
+00:16:02.750 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.754 > 54
+00:16:02.757 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.761 > 53
+00:16:02.761 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.768 > 52
+00:16:02.768 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.772 > 51
+00:16:02.772 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.779 > 50
+00:16:02.779 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.786 > 49
+00:16:02.786 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.790 > 48
+00:16:02.790 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.797 > 47
+00:16:02.797 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.803 > 46
+00:16:02.803 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.807 > 45
+00:16:02.807 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.814 > 44
+00:16:02.814 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.821 > 43
+00:16:02.821 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.825 > 42
+00:16:02.825 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.832 > 41
+00:16:02.832 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.839 > 40
+00:16:02.839 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.843 > 39
+00:16:02.843 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.850 > 38
+00:16:02.850 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.857 > 37
+00:16:02.857 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.861 > 36
+00:16:02.861 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.867 > 35
+00:16:02.867 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.874 > 34
+00:16:02.874 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.878 > 33
+00:16:02.878 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.885 > 32
+00:16:02.885 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.889 > 31
+00:16:02.892 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.896 > 30
+00:16:02.896 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.903 > 29
+00:16:02.903 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.907 > 28
+00:16:02.910 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.914 > 27
+00:16:02.914 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.921 > 26
+00:16:02.921 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.925 > 25
+00:16:02.928 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.932 > 24
+00:16:02.932 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.939 > 23
+00:16:02.939 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.943 > 22
+00:16:02.945 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.949 > 21
+00:16:02.949 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.956 > 20
+00:16:02.956 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.960 > 19
+00:16:02.960 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.967 > 18
+00:16:02.967 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.974 > 17
+00:16:02.974 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.978 > 16
+00:16:02.978 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.985 > 15
+00:16:02.985 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.992 > 14
+00:16:02.992 > positionA: 90    positionB: 160    positionC: 0
+00:16:02.996 > 13
+00:16:02.996 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.003 > 12
+00:16:03.003 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.009 > 11
+00:16:03.009 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.014 > 10
+00:16:03.014 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.021 > 9
+00:16:03.021 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.027 > 8
+00:16:03.027 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.032 > 7
+00:16:03.032 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.038 > 6
+00:16:03.038 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.043 > 5
+00:16:03.045 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.049 > 4
+00:16:03.049 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.056 > 3
+00:16:03.056 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.060 > 2
+00:16:03.060 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.067 > 1
+00:16:03.067 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.074 > 0
+00:16:03.074 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.078 > 255
+00:16:03.078 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.085 > 254
+00:16:03.085 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.092 > 253
+00:16:03.092 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.096 > 252
+00:16:03.096 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.103 > 251
+00:16:03.103 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.110 > 250
+00:16:03.110 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.114 > 249
+00:16:03.114 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.120 > 248
+00:16:03.120 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.127 > 247
+00:16:03.127 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.131 > 246
+00:16:03.134 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.138 > 245
+00:16:03.138 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.145 > 244
+00:16:03.145 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.149 > 243
+00:16:03.152 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.156 > 242
+00:16:03.156 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.163 > 241
+00:16:03.163 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.167 > 240
+00:16:03.169 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.173 > 239
+00:16:03.173 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.180 > 238
+00:16:03.180 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.187 > 237
+00:16:03.187 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.191 > 236
+00:16:03.191 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.198 > 235
+00:16:03.198 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.205 > 234
+00:16:03.205 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.209 > 233
+00:16:03.209 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.216 > 232
+00:16:03.216 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.222 > 231
+00:16:03.222 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.227 > 230
+00:16:03.229 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.233 > 229
+00:16:03.233 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.240 > 228
+00:16:03.240 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.244 > 227
+00:16:03.247 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.251 > 226
+00:16:03.251 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.258 > 225
+00:16:03.258 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.262 > 224
+00:16:03.265 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.269 > 223
+00:16:03.269 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.275 > 222
+00:16:03.275 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.282 > 221
+00:16:03.282 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.286 > 220
+00:16:03.286 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.293 > 219
+00:16:03.293 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.300 > 218
+00:16:03.300 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.304 > 217
+00:16:03.304 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.311 > 216
+00:16:03.311 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.318 > 215
+00:16:03.318 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.322 > 214
+00:16:03.324 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.329 > 213
+00:16:03.329 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.335 > 212
+00:16:03.335 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.339 > 211
+00:16:03.342 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.346 > 210
+00:16:03.346 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.353 > 209
+00:16:03.353 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.357 > 208
+00:16:03.360 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.364 > 207
+00:16:03.364 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.371 > 206
+00:16:03.371 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.377 > 205
+00:16:03.377 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.381 > 204
+00:16:03.381 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.388 > 203
+00:16:03.388 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.395 > 202
+00:16:03.395 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.399 > 201
+00:16:03.399 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.406 > 200
+00:16:03.406 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.413 > 199
+00:16:03.413 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.417 > 198
+00:16:03.420 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.424 > 197
+00:16:03.424 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.430 > 196
+00:16:03.430 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.435 > 195
+00:16:03.437 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.441 > 194
+00:16:03.441 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.448 > 193
+00:16:03.448 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.452 > 192
+00:16:03.455 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.459 > 191
+00:16:03.459 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.466 > 190
+00:16:03.466 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.473 > 189
+00:16:03.473 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.477 > 188
+00:16:03.477 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.483 > 187
+00:16:03.483 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.490 > 186
+00:16:03.490 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.494 > 185
+00:16:03.494 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.501 > 184
+00:16:03.501 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.508 > 183
+00:16:03.508 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.512 > 182
+00:16:03.515 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.519 > 181
+00:16:03.519 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.526 > 180
+00:16:03.526 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.530 > 179
+00:16:03.532 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.537 > 178
+00:16:03.537 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.543 > 177
+00:16:03.543 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.547 > 176
+00:16:03.550 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.554 > 175
+00:16:03.554 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.561 > 174
+00:16:03.561 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.568 > 173
+00:16:03.568 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.572 > 172
+00:16:03.572 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.579 > 171
+00:16:03.579 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.586 > 170
+00:16:03.586 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.590 > 169
+00:16:03.590 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.596 > 168
+00:16:03.596 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.603 > 167
+00:16:03.603 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.607 > 166
+00:16:03.610 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.614 > 165
+00:16:03.614 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.621 > 164
+00:16:03.621 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.625 > 163
+00:16:03.628 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.632 > 162
+00:16:03.632 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.639 > 161
+00:16:03.639 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.643 > 160
+00:16:03.645 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.649 > 159
+00:16:03.649 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.656 > 158
+00:16:03.656 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.663 > 157
+00:16:03.663 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.667 > 156
+00:16:03.667 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.674 > 155
+00:16:03.674 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.681 > 154
+00:16:03.681 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.685 > 153
+00:16:03.685 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.692 > 152
+00:16:03.692 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.698 > 151
+00:16:03.698 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.703 > 150
+00:16:03.705 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.709 > 149
+00:16:03.709 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.716 > 148
+00:16:03.716 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.720 > 147
+00:16:03.723 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.727 > 146
+00:16:03.727 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.734 > 145
+00:16:03.734 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.738 > 144
+00:16:03.741 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.745 > 143
+00:16:03.745 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.751 > 142
+00:16:03.751 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.758 > 141
+00:16:03.758 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.762 > 140
+00:16:03.762 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.769 > 139
+00:16:03.769 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.776 > 138
+00:16:03.776 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.780 > 137
+00:16:03.780 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.787 > 136
+00:16:03.787 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.794 > 135
+00:16:03.794 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.798 > 134
+00:16:03.800 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.805 > 133
+00:16:03.805 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.811 > 132
+00:16:03.811 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.815 > 131
+00:16:03.818 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.822 > 130
+00:16:03.822 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.829 > 129
+00:16:03.829 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.833 > 128
+00:16:03.836 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.840 > 127
+00:16:03.840 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.847 > 126
+00:16:03.847 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.853 > 125
+00:16:03.853 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.858 > 124
+00:16:03.858 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.864 > 123
+00:16:03.864 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.871 > 122
+00:16:03.871 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.875 > 121
+00:16:03.875 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.882 > 120
+00:16:03.882 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.889 > 119
+00:16:03.889 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.893 > 118
+00:16:03.896 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.900 > 117
+00:16:03.900 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.907 > 116
+00:16:03.907 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.911 > 115
+00:16:03.913 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.917 > 114
+00:16:03.917 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.924 > 113
+00:16:03.924 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.928 > 112
+00:16:03.931 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.935 > 111
+00:16:03.935 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.942 > 110
+00:16:03.942 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.949 > 109
+00:16:03.949 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.953 > 108
+00:16:03.953 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.960 > 107
+00:16:03.960 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.966 > 106
+00:16:03.966 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.970 > 105
+00:16:03.970 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.977 > 104
+00:16:03.977 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.984 > 103
+00:16:03.984 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.988 > 102
+00:16:03.991 > positionA: 90    positionB: 160    positionC: 0
+00:16:03.995 > 101
+00:16:03.995 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.002 > 100
+00:16:04.002 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.006 > 99
+00:16:04.008 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.013 > 98
+00:16:04.013 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.019 > 97
+00:16:04.019 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.024 > 96
+00:16:04.026 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.030 > 95
+00:16:04.030 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.037 > 94
+00:16:04.037 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.041 > 93
+00:16:04.041 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.048 > 92
+00:16:04.048 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.055 > 91
+00:16:04.055 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.059 > 90
+00:16:04.059 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.066 > 89
+00:16:04.066 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.073 > 88
+00:16:04.073 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.077 > 87
+00:16:04.077 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.084 > 86
+00:16:04.084 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.090 > 85
+00:16:04.090 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.095 > 84
+00:16:04.095 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.101 > 83
+00:16:04.101 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.108 > 82
+00:16:04.108 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.112 > 81
+00:16:04.112 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.119 > 80
+00:16:04.119 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.126 > 79
+00:16:04.126 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.130 > 78
+00:16:04.130 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.137 > 77
+00:16:04.137 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.144 > 76
+00:16:04.144 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.148 > 75
+00:16:04.148 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.155 > 74
+00:16:04.155 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.159 > 73
+00:16:04.162 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.166 > 72
+00:16:04.166 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.173 > 71
+00:16:04.173 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.177 > 70
+00:16:04.179 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.183 > 69
+00:16:04.183 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.190 > 68
+00:16:04.190 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.194 > 67
+00:16:04.197 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.201 > 66
+00:16:04.201 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.208 > 65
+00:16:04.208 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.212 > 64
+00:16:04.215 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.219 > 63
+00:16:04.219 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.226 > 62
+00:16:04.226 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.230 > 61
+00:16:04.230 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.237 > 60
+00:16:04.237 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.244 > 59
+00:16:04.244 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.248 > 58
+00:16:04.248 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.255 > 57
+00:16:04.255 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.261 > 56
+00:16:04.261 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.265 > 55
+00:16:04.265 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.272 > 54
+00:16:04.272 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.279 > 53
+00:16:04.279 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.283 > 52
+00:16:04.283 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.290 > 51
+00:16:04.290 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.297 > 50
+00:16:04.297 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.301 > 49
+00:16:04.301 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.308 > 48
+00:16:04.308 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.314 > 47
+00:16:04.314 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.319 > 46
+00:16:04.319 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.325 > 45
+00:16:04.325 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.332 > 44
+00:16:04.332 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.337 > 43
+00:16:04.337 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.343 > 42
+00:16:04.343 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.347 > 41
+00:16:04.350 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.354 > 40
+00:16:04.354 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.361 > 39
+00:16:04.361 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.365 > 38
+00:16:04.368 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.372 > 37
+00:16:04.372 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.379 > 36
+00:16:04.379 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.383 > 35
+00:16:04.386 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.390 > 34
+00:16:04.390 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.397 > 33
+00:16:04.397 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.401 > 32
+00:16:04.403 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.408 > 31
+00:16:04.408 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.414 > 30
+00:16:04.414 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.418 > 29
+00:16:04.418 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.425 > 28
+00:16:04.425 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.432 > 27
+00:16:04.432 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.436 > 26
+00:16:04.436 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.443 > 25
+00:16:04.443 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.450 > 24
+00:16:04.450 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.454 > 23
+00:16:04.454 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.461 > 22
+00:16:04.461 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.468 > 21
+00:16:04.468 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.472 > 20
+00:16:04.472 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.479 > 19
+00:16:04.479 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.485 > 18
+00:16:04.485 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.490 > 17
+00:16:04.490 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.496 > 16
+00:16:04.496 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.503 > 15
+00:16:04.503 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.507 > 14
+00:16:04.507 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.514 > 13
+00:16:04.514 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.521 > 12
+00:16:04.521 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.525 > 11
+00:16:04.525 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.532 > 10
+00:16:04.532 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.536 > 9
+00:16:04.539 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.543 > 8
+00:16:04.543 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.550 > 7
+00:16:04.550 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.554 > 6
+00:16:04.554 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.561 > 5
+00:16:04.561 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.568 > 4
+00:16:04.568 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.572 > 3
+00:16:04.572 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.579 > 2
+00:16:04.579 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.583 > 1
+00:16:04.585 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.590 > 0
+00:16:04.590 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.596 > 255
+00:16:04.596 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.600 > 254
+00:16:04.603 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.607 > 253
+00:16:04.607 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.614 > 252
+00:16:04.614 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.618 > 251
+00:16:04.621 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.625 > 250
+00:16:04.625 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.632 > 249
+00:16:04.632 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.639 > 248
+00:16:04.639 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.643 > 247
+00:16:04.643 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.649 > 246
+00:16:04.649 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.656 > 245
+00:16:04.656 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.660 > 244
+00:16:04.660 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.667 > 243
+00:16:04.667 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.674 > 242
+00:16:04.674 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.678 > 241
+00:16:04.681 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.685 > 240
+00:16:04.685 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.692 > 239
+00:16:04.692 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.696 > 238
+00:16:04.698 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.702 > 237
+00:16:04.702 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.709 > 236
+00:16:04.709 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.713 > 235
+00:16:04.716 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.720 > 234
+00:16:04.720 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.727 > 233
+00:16:04.727 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.734 > 232
+00:16:04.734 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.738 > 231
+00:16:04.738 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.745 > 230
+00:16:04.745 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.751 > 229
+00:16:04.751 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.755 > 228
+00:16:04.755 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.762 > 227
+00:16:04.762 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.769 > 226
+00:16:04.769 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.773 > 225
+00:16:04.776 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.780 > 224
+00:16:04.780 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.787 > 223
+00:16:04.787 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.791 > 222
+00:16:04.794 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.798 > 221
+00:16:04.798 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.804 > 220
+00:16:04.804 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.809 > 219
+00:16:04.811 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.815 > 218
+00:16:04.815 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.822 > 217
+00:16:04.822 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.829 > 216
+00:16:04.829 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.833 > 215
+00:16:04.833 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.840 > 214
+00:16:04.840 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.847 > 213
+00:16:04.847 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.851 > 212
+00:16:04.851 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.857 > 211
+00:16:04.857 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.864 > 210
+00:16:04.864 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.868 > 209
+00:16:04.871 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.875 > 208
+00:16:04.875 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.882 > 207
+00:16:04.882 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.886 > 206
+00:16:04.889 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.893 > 205
+00:16:04.893 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.900 > 204
+00:16:04.900 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.904 > 203
+00:16:04.906 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.911 > 202
+00:16:04.911 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.917 > 201
+00:16:04.917 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.924 > 200
+00:16:04.924 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.928 > 199
+00:16:04.928 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.935 > 198
+00:16:04.935 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.942 > 197
+00:16:04.942 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.946 > 196
+00:16:04.946 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.953 > 195
+00:16:04.953 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.959 > 194
+00:16:04.959 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.964 > 193
+00:16:04.966 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.970 > 192
+00:16:04.970 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.977 > 191
+00:16:04.977 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.981 > 190
+00:16:04.984 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.988 > 189
+00:16:04.988 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.995 > 188
+00:16:04.995 > positionA: 90    positionB: 160    positionC: 0
+00:16:04.999 > 187
+00:16:05.002 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.006 > 186
+00:16:05.006 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.013 > 185
+00:16:05.013 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.019 > 184
+00:16:05.019 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.023 > 183
+00:16:05.023 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.030 > 182
+00:16:05.030 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.037 > 181
+00:16:05.037 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.041 > 180
+00:16:05.041 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.048 > 179
+00:16:05.048 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.055 > 178
+00:16:05.055 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.059 > 177
+00:16:05.061 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.066 > 176
+00:16:05.066 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.072 > 175
+00:16:05.072 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.076 > 174
+00:16:05.079 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.083 > 173
+00:16:05.083 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.090 > 172
+00:16:05.090 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.094 > 171
+00:16:05.097 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.101 > 170
+00:16:05.101 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.108 > 169
+00:16:05.108 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.114 > 168
+00:16:05.114 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.119 > 167
+00:16:05.119 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.125 > 166
+00:16:05.125 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.132 > 165
+00:16:05.132 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.136 > 164
+00:16:05.136 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.143 > 163
+00:16:05.143 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.150 > 162
+00:16:05.150 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.154 > 161
+00:16:05.157 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.161 > 160
+00:16:05.161 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.168 > 159
+00:16:05.168 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.172 > 158
+00:16:05.174 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.178 > 157
+00:16:05.178 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.185 > 156
+00:16:05.185 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.189 > 155
+00:16:05.192 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.196 > 154
+00:16:05.196 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.203 > 153
+00:16:05.203 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.210 > 152
+00:16:05.210 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.214 > 151
+00:16:05.214 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.221 > 150
+00:16:05.221 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.227 > 149
+00:16:05.227 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.231 > 148
+00:16:05.231 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.238 > 147
+00:16:05.238 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.245 > 146
+00:16:05.245 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.249 > 145
+00:16:05.252 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.256 > 144
+00:16:05.256 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.263 > 143
+00:16:05.263 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.267 > 142
+00:16:05.270 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.274 > 141
+00:16:05.274 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.280 > 140
+00:16:05.280 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.284 > 139
+00:16:05.287 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.291 > 138
+00:16:05.291 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.298 > 137
+00:16:05.298 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.305 > 136
+00:16:05.305 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.309 > 135
+00:16:05.309 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.316 > 134
+00:16:05.316 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.323 > 133
+00:16:05.323 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.327 > 132
+00:16:05.327 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.333 > 131
+00:16:05.333 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.340 > 130
+00:16:05.340 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.344 > 129
+00:16:05.347 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.351 > 128
+00:16:05.351 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.358 > 127
+00:16:05.358 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.362 > 126
+00:16:05.365 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.369 > 125
+00:16:05.369 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.376 > 124
+00:16:05.376 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.380 > 123
+00:16:05.382 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.387 > 122
+00:16:05.387 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.393 > 121
+00:16:05.393 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.400 > 120
+00:16:05.400 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.404 > 119
+00:16:05.404 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.411 > 118
+00:16:05.411 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.418 > 117
+00:16:05.418 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.422 > 116
+00:16:05.422 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.429 > 115
+00:16:05.429 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.436 > 114
+00:16:05.436 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.440 > 113
+00:16:05.442 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.446 > 112
+00:16:05.446 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.453 > 111
+00:16:05.453 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.457 > 110
+00:16:05.460 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.464 > 109
+00:16:05.464 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.471 > 108
+00:16:05.471 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.475 > 107
+00:16:05.478 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.482 > 106
+00:16:05.482 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.489 > 105
+00:16:05.489 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.495 > 104
+00:16:05.495 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.499 > 103
+00:16:05.499 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.506 > 102
+00:16:05.506 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.513 > 101
+00:16:05.513 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.517 > 100
+00:16:05.517 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.524 > 99
+00:16:05.524 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.531 > 98
+00:16:05.531 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.535 > 97
+00:16:05.535 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.542 > 96
+00:16:05.542 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.548 > 95
+00:16:05.548 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.553 > 94
+00:16:05.553 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.559 > 93
+00:16:05.559 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.566 > 92
+00:16:05.566 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.570 > 91
+00:16:05.570 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.577 > 90
+00:16:05.577 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.584 > 89
+00:16:05.584 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.588 > 88
+00:16:05.588 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.595 > 87
+00:16:05.595 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.602 > 86
+00:16:05.602 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.606 > 85
+00:16:05.606 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.613 > 84
+00:16:05.613 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.617 > 83
+00:16:05.619 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.623 > 82
+00:16:05.623 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.630 > 81
+00:16:05.630 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.634 > 80
+00:16:05.637 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.641 > 79
+00:16:05.641 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.648 > 78
+00:16:05.648 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.652 > 77
+00:16:05.655 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.659 > 76
+00:16:05.659 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.666 > 75
+00:16:05.666 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.670 > 74
+00:16:05.673 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.677 > 73
+00:16:05.677 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.684 > 72
+00:16:05.684 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.688 > 71
+00:16:05.688 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.695 > 70
+00:16:05.695 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.701 > 69
+00:16:05.701 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.706 > 68
+00:16:05.706 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.712 > 67
+00:16:05.712 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.719 > 66
+00:16:05.719 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.723 > 65
+00:16:05.723 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.730 > 64
+00:16:05.730 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.737 > 63
+00:16:05.737 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.742 > 62
+00:16:05.742 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.748 > 61
+00:16:05.748 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.755 > 60
+00:16:05.755 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.759 > 59
+00:16:05.759 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.766 > 58
+00:16:05.766 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.773 > 57
+00:16:05.773 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.777 > 56
+00:16:05.777 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.783 > 55
+00:16:05.783 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.790 > 54
+00:16:05.790 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.794 > 53
+00:16:05.794 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.801 > 52
+00:16:05.801 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.805 > 51
+00:16:05.808 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.812 > 50
+00:16:05.812 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.819 > 49
+00:16:05.819 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.823 > 48
+00:16:05.826 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.830 > 47
+00:16:05.830 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.837 > 46
+00:16:05.837 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.841 > 45
+00:16:05.843 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.848 > 44
+00:16:05.848 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.854 > 43
+00:16:05.854 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.858 > 42
+00:16:05.861 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.865 > 41
+00:16:05.865 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.872 > 40
+00:16:05.872 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.876 > 39
+00:16:05.876 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.883 > 38
+00:16:05.883 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.890 > 37
+00:16:05.890 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.894 > 36
+00:16:05.894 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.901 > 35
+00:16:05.901 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.908 > 34
+00:16:05.908 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.912 > 33
+00:16:05.912 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.919 > 32
+00:16:05.919 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.925 > 31
+00:16:05.925 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.930 > 30
+00:16:05.930 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.936 > 29
+00:16:05.936 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.943 > 28
+00:16:05.943 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.947 > 27
+00:16:05.947 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.954 > 26
+00:16:05.954 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.961 > 25
+00:16:05.961 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.965 > 24
+00:16:05.965 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.972 > 23
+00:16:05.972 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.979 > 22
+00:16:05.979 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.983 > 21
+00:16:05.983 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.990 > 20
+00:16:05.990 > positionA: 90    positionB: 160    positionC: 0
+00:16:05.994 > 19
+00:16:05.996 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.001 > 18
+00:16:06.001 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.007 > 17
+00:16:06.007 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.012 > 16
+00:16:06.014 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.018 > 15
+00:16:06.018 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.025 > 14
+00:16:06.025 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.029 > 13
+00:16:06.032 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.036 > 12
+00:16:06.036 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.043 > 11
+00:16:06.043 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.047 > 10
+00:16:06.050 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.054 > 9
+00:16:06.054 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.061 > 8
+00:16:06.061 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.065 > 7
+00:16:06.065 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.072 > 6
+00:16:06.072 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.079 > 5
+00:16:06.079 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.083 > 4
+00:16:06.083 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.090 > 3
+00:16:06.090 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.094 > 2
+00:16:06.096 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.101 > 1
+00:16:06.101 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.108 > 0
+00:16:06.108 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.112 > 255
+00:16:06.112 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.118 > 254
+00:16:06.118 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.125 > 253
+00:16:06.125 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.129 > 252
+00:16:06.132 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.136 > 251
+00:16:06.136 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.143 > 250
+00:16:06.143 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.147 > 249
+00:16:06.150 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.154 > 248
+00:16:06.154 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.161 > 247
+00:16:06.161 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.165 > 246
+00:16:06.167 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.171 > 245
+00:16:06.171 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.178 > 244
+00:16:06.178 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.185 > 243
+00:16:06.185 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.189 > 242
+00:16:06.189 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.196 > 241
+00:16:06.196 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.203 > 240
+00:16:06.203 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.207 > 239
+00:16:06.207 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.214 > 238
+00:16:06.214 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.220 > 237
+00:16:06.220 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.225 > 236
+00:16:06.227 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.231 > 235
+00:16:06.231 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.238 > 234
+00:16:06.238 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.242 > 233
+00:16:06.245 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.249 > 232
+00:16:06.249 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.256 > 231
+00:16:06.256 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.260 > 230
+00:16:06.263 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.267 > 229
+00:16:06.267 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.273 > 228
+00:16:06.273 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.280 > 227
+00:16:06.280 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.284 > 226
+00:16:06.284 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.291 > 225
+00:16:06.291 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.298 > 224
+00:16:06.298 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.302 > 223
+00:16:06.302 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.309 > 222
+00:16:06.309 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.316 > 221
+00:16:06.316 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.320 > 220
+00:16:06.322 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.326 > 219
+00:16:06.326 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.333 > 218
+00:16:06.333 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.337 > 217
+00:16:06.340 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.344 > 216
+00:16:06.344 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.353 > 215
+00:16:06.353 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.368 > 214
+00:16:06.368 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.368 > 213
+00:16:06.368 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.370 > 212
+00:16:06.370 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.376 > 211
+00:16:06.376 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.379 > 210
+00:16:06.379 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.386 > 209
+00:16:06.386 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.393 > 208
+00:16:06.393 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.397 > 207
+00:16:06.397 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.404 > 206
+00:16:06.404 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.411 > 205
+00:16:06.411 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.415 > 204
+00:16:06.418 > positionA: 90    positionB: 160    positionC: 0
+00:16:06.424 > 203
+00:16:06.424 > position�0
+00:16:07.371 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.374 > 5
+00:16:07.374 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.381 > 0
+00:16:07.381 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.507 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:07.512 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.637 > 0
+00:16:07.637 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.641 > 5
+00:16:07.641 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.648 > 6
+00:16:07.648 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.653 > 7
+00:16:07.653 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.660 > 8
+00:16:07.660 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.664 > 9
+00:16:07.664 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.671 > 10
+00:16:07.671 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.675 > 11
+00:16:07.675 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.682 > 12
+00:16:07.682 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.687 > 13
+00:16:07.689 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.694 > 14
+00:16:07.694 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.701 > 15
+00:16:07.701 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.705 > 16
+00:16:07.705 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.712 > 17
+00:16:07.712 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.716 > 18
+00:16:07.716 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.723 > 19
+00:16:07.723 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.728 > 20
+00:16:07.728 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.735 > 21
+00:16:07.735 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.739 > 22
+00:16:07.742 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.746 > 23
+00:16:07.746 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.753 > 24
+00:16:07.753 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.757 > 25
+00:16:07.757 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.764 > 26
+00:16:07.764 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.769 > 27
+00:16:07.769 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.776 > 28
+00:16:07.776 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.780 > 29
+00:16:07.783 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.787 > 30
+00:16:07.787 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.794 > 31
+00:16:07.794 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.798 > 32
+00:16:07.798 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.805 > 33
+00:16:07.805 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.810 > 34
+00:16:07.810 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.817 > 35
+00:16:07.817 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.821 > 36
+00:16:07.821 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.828 > 37
+00:16:07.828 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.832 > 38
+00:16:07.835 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.839 > 39
+00:16:07.839 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.846 > 40
+00:16:07.846 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.851 > 41
+00:16:07.851 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.858 > 42
+00:16:07.858 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.862 > 43
+00:16:07.862 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.869 > 44
+00:16:07.869 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.873 > 45
+00:16:07.876 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.880 > 46
+00:16:07.880 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.887 > 47
+00:16:07.887 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.892 > 48
+00:16:07.892 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.899 > 49
+00:16:07.899 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.903 > 50
+00:16:07.903 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.910 > 51
+00:16:07.910 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.914 > 52
+00:16:07.914 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.921 > 53
+00:16:07.921 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.926 > 54
+00:16:07.929 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.933 > 55
+00:16:07.933 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.940 > 56
+00:16:07.940 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.944 > 57
+00:16:07.944 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.951 > 58
+00:16:07.951 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.955 > 59
+00:16:07.955 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.963 > 60
+00:16:07.963 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.967 > 61
+00:16:07.970 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.974 > 62
+00:16:07.974 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.981 > 63
+00:16:07.981 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.985 > 64
+00:16:07.985 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.992 > 65
+00:16:07.992 > positionA: 0    positionB: 5    positionC: 0
+00:16:07.997 > 66
+00:16:07.997 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.004 > 67
+00:16:08.004 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.008 > 68
+00:16:08.008 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.015 > 69
+00:16:08.015 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.019 > 70
+00:16:08.022 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.026 > 71
+00:16:08.026 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.033 > 72
+00:16:08.033 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.038 > 73
+00:16:08.038 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.045 > 74
+00:16:08.045 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.049 > 75
+00:16:08.049 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.056 > 76
+00:16:08.056 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.060 > 77
+00:16:08.063 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.067 > 78
+00:16:08.067 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.074 > 79
+00:16:08.074 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.079 > 80
+00:16:08.079 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.086 > 81
+00:16:08.086 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.090 > 82
+00:16:08.090 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.097 > 83
+00:16:08.097 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.101 > 84
+00:16:08.101 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.108 > 85
+00:16:08.108 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.113 > 86
+00:16:08.115 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.120 > 87
+00:16:08.120 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.127 > 88
+00:16:08.127 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.131 > 89
+00:16:08.131 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.138 > 90
+00:16:08.138 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.142 > 91
+00:16:08.142 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.149 > 92
+00:16:08.149 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.154 > 93
+00:16:08.156 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.161 > 94
+00:16:08.161 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.168 > 95
+00:16:08.168 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.172 > 96
+00:16:08.172 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.179 > 97
+00:16:08.179 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.183 > 98
+00:16:08.183 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.190 > 99
+00:16:08.190 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.195 > 100
+00:16:08.195 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.202 > 101
+00:16:08.202 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.209 > 102
+00:16:08.209 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.213 > 103
+00:16:08.213 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.220 > 104
+00:16:08.220 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.224 > 105
+00:16:08.224 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.231 > 106
+00:16:08.231 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.236 > 107
+00:16:08.238 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.243 > 108
+00:16:08.243 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.249 > 109
+00:16:08.249 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.254 > 110
+00:16:08.254 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.261 > 111
+00:16:08.261 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.265 > 112
+00:16:08.268 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.272 > 113
+00:16:08.272 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.279 > 114
+00:16:08.279 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.283 > 115
+00:16:08.283 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.290 > 116
+00:16:08.290 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.295 > 117
+00:16:08.297 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.302 > 118
+00:16:08.302 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.309 > 119
+00:16:08.309 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.313 > 120
+00:16:08.313 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.320 > 121
+00:16:08.320 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.324 > 122
+00:16:08.327 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.331 > 123
+00:16:08.331 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.338 > 124
+00:16:08.338 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.342 > 125
+00:16:08.342 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.349 > 126
+00:16:08.349 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.354 > 127
+00:16:08.356 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.361 > 128
+00:16:08.361 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.368 > 129
+00:16:08.368 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.372 > 130
+00:16:08.372 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.379 > 131
+00:16:08.379 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.383 > 132
+00:16:08.383 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.390 > 133
+00:16:08.390 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.397 > 134
+00:16:08.397 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.401 > 135
+00:16:08.401 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.408 > 136
+00:16:08.408 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.413 > 137
+00:16:08.413 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.420 > 138
+00:16:08.420 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.424 > 139
+00:16:08.427 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.431 > 140
+00:16:08.431 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.438 > 141
+00:16:08.438 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.442 > 142
+00:16:08.442 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.449 > 143
+00:16:08.449 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.454 > 144
+00:16:08.456 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.460 > 145
+00:16:08.460 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.467 > 146
+00:16:08.467 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.472 > 147
+00:16:08.472 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.479 > 148
+00:16:08.479 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.483 > 149
+00:16:08.486 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.490 > 150
+00:16:08.490 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.497 > 151
+00:16:08.497 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.501 > 152
+00:16:08.501 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.508 > 153
+00:16:08.508 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.513 > 154
+00:16:08.515 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.520 > 155
+00:16:08.520 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.527 > 156
+00:16:08.527 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.531 > 157
+00:16:08.531 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.538 > 158
+00:16:08.538 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.542 > 159
+00:16:08.545 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.549 > 160
+00:16:08.549 > positionA: 0    positionB: 5    positionC: 0
+00:16:08.556 > 0
+00:16:08.556 > positionA: 0    positionB: 160    positionC: 0
+00:16:09.557 > --------------------------------------------------------
+00:16:09.667 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:09.672 > positionA: 0    positionB: 160    positionC: 0
+00:16:09.797 > 0
+00:16:09.798 > positionA: 0    positionB: 160    positionC: 0
+00:16:09.801 > 160
+00:16:09.801 > positionA: 0    positionB: 160    positionC: 0
+00:16:09.808 > 0
+00:16:09.808 > positionA: 0    positionB: 160    positionC: 0
+00:16:10.810 > --------------------------------------------------------
+00:16:10.927 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:10.932 > positionA: 0    positionB: 160    positionC: 0
+00:16:11.057 > 0
+00:16:11.057 > positionA: 0    positionB: 160    positionC: 0
+00:16:11.061 > 160
+00:16:11.061 > positionA: 0    positionB: 160    positionC: 0
+00:16:11.068 > 0
+00:16:11.068 > positionA: 0    positionB: 160    positionC: 0
+00:16:12.069 > --------------------------------------------------------
+00:16:12.187 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:12.192 > positionA: 0    positionB: 160    positionC: 0
+00:16:12.317 > 0
+00:16:12.317 > positionA: 0    positionB: 160    positionC: 0
+00:16:12.321 > 160
+00:16:12.321 > positionA: 0    positionB: 160    positionC: 0
+00:16:12.328 > 0
+00:16:12.328 > positionA: 0    positionB: 160    positionC: 0
+00:16:13.330 > --------------------------------------------------------
+00:16:13.446 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:13.452 > positionA: 0    positionB: 160    positionC: 0
+00:16:13.577 > 0
+00:16:13.577 > positionA: 0    positionB: 160    positionC: 0
+00:16:13.581 > 160
+00:16:13.581 > positionA: 0    positionB: 160    positionC: 0
+00:16:13.588 > 0
+00:16:13.588 > positionA: 0    positionB: 160    positionC: 0
+00:16:14.589 > --------------------------------------------------------
+00:16:14.706 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:14.712 > positionA: 0    positionB: 160    positionC: 0
+00:16:14.837 > 0
+00:16:14.837 > positionA: 0    positionB: 160    positionC: 0
+00:16:14.841 > 160
+00:16:14.841 > positionA: 0    positionB: 160    positionC: 0
+00:16:14.848 > 0
+00:16:14.848 > positionA: 0    positionB: 160    positionC: 0
+00:16:15.849 > --------------------------------------------------------
+00:16:15.966 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:15.972 > positionA: 0    positionB: 160    positionC: 0
+00:16:16.097 > 0
+00:16:16.097 > positionA: 0    positionB: 160    positionC: 0
+00:16:16.101 > 160
+00:16:16.101 > positionA: 0    positionB: 160    positionC: 0
+00:16:16.108 > 0
+00:16:16.108 > positionA: 0    positionB: 160    positionC: 0
+00:16:17.109 > --------------------------------------------------------
+00:16:17.227 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:17.232 > positionA: 0    positionB: 160    positionC: 0
+00:16:17.360 > 0
+00:16:17.375 > positionA: 0    positionB: 160    positionC: 0
+00:16:17.375 > 160
+00:16:17.375 > positionA: 0    positionB: 160    positionC: 0
+00:16:17.375 > 0
+00:16:17.375 > positionA: 0    positionB: 160    positionC: 0
+00:16:18.369 > --------------------------------------------------------
+00:16:18.487 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:18.492 > positionA: 0    positionB: 160    positionC: 0
+00:16:18.617 > 0
+00:16:18.617 > positionA: 0    positionB: 160    positionC: 0
+00:16:18.621 > 160
+00:16:18.621 > positionA: 0    positionB: 160    positionC: 0
+00:16:18.628 > 0
+00:16:18.628 > positionA: 0    positionB: 160    positionC: 0
+00:16:19.629 > --------------------------------------------------------
+00:16:19.747 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:19.752 > positionA: 0    positionB: 160    positionC: 0
+00:16:19.877 > 0
+00:16:19.877 > positionA: 0    positionB: 160    positionC: 0
+00:16:19.881 > 160
+00:16:19.881 > positionA: 0    positionB: 160    positionC: 0
+00:16:19.888 > 0
+00:16:19.888 > positionA: 0    positionB: 160    positionC: 0
+00:16:20.889 > --------------------------------------------------------
+00:16:21.006 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:21.012 > positionA: 0    positionB: 160    positionC: 0
+00:16:21.137 > 0
+00:16:21.137 > positionA: 0    positionB: 160    positionC: 0
+00:16:21.141 > 160
+00:16:21.141 > positionA: 0    positionB: 160    positionC: 0
+00:16:21.148 > 0
+00:16:21.148 > positionA: 0    positionB: 160    positionC: 0
+00:16:22.149 > --------------------------------------------------------
+00:16:22.266 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:22.272 > positionA: 0    positionB: 160    positionC: 0
+00:16:22.397 > 0
+00:16:22.397 > positionA: 0    positionB: 160    positionC: 0
+00:16:22.401 > 160
+00:16:22.401 > positionA: 0    positionB: 160    positionC: 0
+00:16:22.408 > 0
+00:16:22.408 > positionA: 0    positionB: 160    positionC: 0
+00:16:23.409 > --------------------------------------------------------
+00:16:23.526 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:23.532 > positionA: 0    positionB: 160    positionC: 0
+00:16:23.657 > 0
+00:16:23.657 > positionA: 0    positionB: 160    positionC: 0
+00:16:23.661 > 160
+00:16:23.661 > positionA: 0    positionB: 160    positionC: 0
+00:16:23.668 > 0
+00:16:23.668 > positionA: 0    positionB: 160    positionC: 0
+00:16:24.669 > --------------------------------------------------------
+00:16:24.787 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:24.792 > positionA: 0    positionB: 160    positionC: 0
+00:16:24.917 > 0
+00:16:24.917 > positionA: 0    positionB: 160    positionC: 0
+00:16:24.921 > 160
+00:16:24.921 > positionA: 0    positionB: 160    positionC: 0
+00:16:24.928 > 0
+00:16:24.928 > positionA: 0    positionB: 160    positionC: 0
+00:16:25.929 > --------------------------------------------------------
+00:16:26.046 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:26.052 > positionA: 0    positionB: 160    positionC: 0
+00:16:26.177 > 0
+00:16:26.177 > positionA: 0    positionB: 160    positionC: 0
+00:16:26.181 > 160
+00:16:26.181 > positionA: 0    positionB: 160    positionC: 0
+00:16:26.188 > 0
+00:16:26.188 > positionA: 0    positionB: 160    positionC: 0
+00:16:27.189 > --------------------------------------------------------
+00:16:27.307 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:27.312 > positionA: 0    positionB: 160    positionC: 0
+00:16:27.437 > 0
+00:16:27.437 > positionA: 0    positionB: 160    positionC: 0
+00:16:27.441 > 160
+00:16:27.441 > positionA: 0    positionB: 160    positionC: 0
+00:16:27.448 > 0
+00:16:27.448 > positionA: 0    positionB: 160    positionC: 0
+00:16:28.449 > --------------------------------------------------------
+00:16:28.566 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:28.572 > positionA: 0    positionB: 160    positionC: 0
+00:16:28.697 > 0
+00:16:28.697 > positionA: 0    positionB: 160    positionC: 0
+00:16:28.701 > 160
+00:16:28.701 > positionA: 0    positionB: 160    positionC: 0
+00:16:28.708 > 0
+00:16:28.708 > positionA: 0    positionB: 160    positionC: 0
+00:16:29.709 > --------------------------------------------------------
+00:16:29.826 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:29.831 > positionA: 0    positionB: 160    positionC: 0
+00:16:29.956 > 0
+00:16:29.957 > positionA: 0    positionB: 160    positionC: 0
+00:16:29.961 > 160
+00:16:29.961 > positionA: 0    positionB: 160    positionC: 0
+00:16:29.968 > 0
+00:16:29.968 > positionA: 0    positionB: 160    positionC: 0
+00:16:30.969 > --------------------------------------------------------
+00:16:31.086 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:31.092 > positionA: 0    positionB: 160    positionC: 0
+00:16:31.217 > 0
+00:16:31.217 > positionA: 0    positionB: 160    positionC: 0
+00:16:31.221 > 160
+00:16:31.221 > positionA: 0    positionB: 160    positionC: 0
+00:16:31.228 > 0
+00:16:31.228 > positionA: 0    positionB: 160    positionC: 0
+00:16:32.229 > --------------------------------------------------------
+00:16:32.346 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:32.351 > positionA: 0    positionB: 160    positionC: 0
+00:16:32.477 > 0
+00:16:32.477 > positionA: 0    positionB: 160    positionC: 0
+00:16:32.481 > 160
+00:16:32.481 > positionA: 0    positionB: 160    positionC: 0
+00:16:32.488 > 0
+00:16:32.488 > positionA: 0    positionB: 160    positionC: 0
+00:16:33.489 > --------------------------------------------------------
+00:16:33.606 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:33.611 > positionA: 0    positionB: 160    positionC: 0
+00:16:33.737 > 0
+00:16:33.737 > positionA: 0    positionB: 160    positionC: 0
+00:16:33.741 > 160
+00:16:33.741 > positionA: 0    positionB: 160    positionC: 0
+00:16:33.747 > 0
+00:16:33.747 > positionA: 0    positionB: 160    positionC: 0
+00:16:34.749 > --------------------------------------------------------
+00:16:34.867 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:34.871 > positionA: 0    positionB: 160    positionC: 0
+00:16:34.997 > 0
+00:16:34.997 > positionA: 0    positionB: 160    positionC: 0
+00:16:35.001 > 160
+00:16:35.001 > positionA: 0    positionB: 160    positionC: 0
+00:16:35.008 > 0
+00:16:35.008 > positionA: 0    positionB: 160    positionC: 0
+00:16:36.009 > --------------------------------------------------------
+00:16:36.126 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:36.131 > positionA: 0    positionB: 160    positionC: 0
+00:16:36.257 > 0
+00:16:36.257 > positionA: 0    positionB: 160    positionC: 0
+00:16:36.261 > 160
+00:16:36.261 > positionA: 0    positionB: 160    positionC: 0
+00:16:36.268 > 0
+00:16:36.268 > positionA: 0    positionB: 160    positionC: 0
+00:16:37.269 > --------------------------------------------------------
+00:16:37.386 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:37.391 > positionA: 0    positionB: 160    positionC: 0
+00:16:37.516 > 0
+00:16:37.517 > positionA: 0    positionB: 160    positionC: 0
+00:16:37.521 > 160
+00:16:37.521 > positionA: 0    positionB: 160    positionC: 0
+00:16:37.528 > 0
+00:16:37.528 > positionA: 0    positionB: 160    positionC: 0
+00:16:38.529 > --------------------------------------------------------
+00:16:38.646 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:38.651 > positionA: 0    positionB: 160    positionC: 0
+00:16:38.776 > 0
+00:16:38.777 > positionA: 0    positionB: 160    positionC: 0
+00:16:38.780 > 160
+00:16:38.780 > positionA: 0    positionB: 160    positionC: 0
+00:16:38.788 > 0
+00:16:38.788 > positionA: 0    positionB: 160    positionC: 0
+00:16:39.789 > --------------------------------------------------------
+00:16:39.906 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:39.911 > positionA: 0    positionB: 160    positionC: 0
+00:16:40.036 > 0
+00:16:40.037 > positionA: 0    positionB: 160    positionC: 0
+00:16:40.041 > 160
+00:16:40.041 > positionA: 0    positionB: 160    positionC: 0
+00:16:40.048 > 0
+00:16:40.048 > positionA: 0    positionB: 160    positionC: 0
+00:16:41.049 > --------------------------------------------------------
+00:16:41.166 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:41.171 > positionA: 0    positionB: 160    positionC: 0
+00:16:41.297 > 0
+00:16:41.297 > positionA: 0    positionB: 160    positionC: 0
+00:16:41.301 > 160
+00:16:41.301 > positionA: 0    positionB: 160    positionC: 0
+00:16:41.308 > 0
+00:16:41.308 > positionA: 0    positionB: 160    positionC: 0
+00:16:42.309 > --------------------------------------------------------
+00:16:42.426 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:42.431 > positionA: 0    positionB: 160    positionC: 0
+00:16:42.556 > 0
+00:16:42.557 > positionA: 0    positionB: 160    positionC: 0
+00:16:42.561 > 160
+00:16:42.561 > positionA: 0    positionB: 160    positionC: 0
+00:16:42.567 > 0
+00:16:42.567 > positionA: 0    positionB: 160    positionC: 0
+00:16:43.569 > --------------------------------------------------------
+00:16:43.686 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:43.691 > positionA: 0    positionB: 160    positionC: 0
+00:16:43.816 > 0
+00:16:43.816 > positionA: 0    positionB: 160    positionC: 0
+00:16:43.820 > 160
+00:16:43.820 > positionA: 0    positionB: 160    positionC: 0
+00:16:43.827 > 0
+00:16:43.827 > positionA: 0    positionB: 160    positionC: 0
+00:16:44.829 > --------------------------------------------------------
+00:16:44.946 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:44.951 > positionA: 0    positionB: 160    positionC: 0
+00:16:45.076 > 0
+00:16:45.077 > positionA: 0    positionB: 160    positionC: 0
+00:16:45.081 > 160
+00:16:45.081 > positionA: 0    positionB: 160    positionC: 0
+00:16:45.087 > 0
+00:16:45.087 > positionA: 0    positionB: 160    positionC: 0
+00:16:46.089 > --------------------------------------------------------
+00:16:46.206 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:46.211 > positionA: 0    positionB: 160    positionC: 0
+00:16:46.336 > 0
+00:16:46.336 > positionA: 0    positionB: 160    positionC: 0
+00:16:46.341 > 160
+00:16:46.341 > positionA: 0    positionB: 160    positionC: 0
+00:16:46.347 > 0
+00:16:46.347 > positionA: 0    positionB: 160    positionC: 0
+00:16:47.349 > --------------------------------------------------------
+00:16:47.466 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:47.471 > positionA: 0    positionB: 160    positionC: 0
+00:16:47.596 > 0
+00:16:47.597 > positionA: 0    positionB: 160    positionC: 0
+00:16:47.601 > 160
+00:16:47.601 > positionA: 0    positionB: 160    positionC: 0
+00:16:47.607 > 0
+00:16:47.607 > positionA: 0    positionB: 160    positionC: 0
+00:16:48.609 > --------------------------------------------------------
+00:16:48.726 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:48.731 > positionA: 0    positionB: 160    positionC: 0
+00:16:48.856 > 0
+00:16:48.856 > positionA: 0    positionB: 160    positionC: 0
+00:16:48.860 > 160
+00:16:48.860 > positionA: 0    positionB: 160    positionC: 0
+00:16:48.867 > 0
+00:16:48.867 > positionA: 0    positionB: 160    positionC: 0
+00:16:49.869 > --------------------------------------------------------
+00:16:49.986 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:49.991 > positionA: 0    positionB: 160    positionC: 0
+00:16:50.116 > 0
+00:16:50.116 > positionA: 0    positionB: 160    positionC: 0
+00:16:50.121 > 160
+00:16:50.121 > positionA: 0    positionB: 160    positionC: 0
+00:16:50.127 > 0
+00:16:50.127 > positionA: 0    positionB: 160    positionC: 0
+00:16:51.129 > --------------------------------------------------------
+00:16:51.246 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:51.251 > positionA: 0    positionB: 160    positionC: 0
+00:16:51.376 > 0
+00:16:51.377 > positionA: 0    positionB: 160    positionC: 0
+00:16:51.380 > 160
+00:16:51.380 > positionA: 0    positionB: 160    positionC: 0
+00:16:51.387 > 0
+00:16:51.387 > positionA: 0    positionB: 160    positionC: 0
+00:16:52.389 > --------------------------------------------------------
+00:16:52.506 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:52.511 > positionA: 0    positionB: 160    positionC: 0
+00:16:52.636 > 0
+00:16:52.636 > positionA: 0    positionB: 160    positionC: 0
+00:16:52.640 > 160
+00:16:52.640 > positionA: 0    positionB: 160    positionC: 0
+00:16:52.647 > 0
+00:16:52.647 > positionA: 0    positionB: 160    positionC: 0
+00:16:53.649 > --------------------------------------------------------
+00:16:53.766 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:53.771 > positionA: 0    positionB: 160    positionC: 0
+00:16:53.896 > 0
+00:16:53.896 > positionA: 0    positionB: 160    positionC: 0
+00:16:53.900 > 160
+00:16:53.900 > positionA: 0    positionB: 160    positionC: 0
+00:16:53.907 > 0
+00:16:53.907 > positionA: 0    positionB: 160    positionC: 0
+00:16:54.909 > --------------------------------------------------------
+00:16:55.026 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:55.031 > positionA: 0    positionB: 160    positionC: 0
+00:16:55.156 > 0
+00:16:55.157 > positionA: 0    positionB: 160    positionC: 0
+00:16:55.161 > 160
+00:16:55.161 > positionA: 0    positionB: 160    positionC: 0
+00:16:55.167 > 0
+00:16:55.167 > positionA: 0    positionB: 160    positionC: 0
+00:16:56.168 > --------------------------------------------------------
+00:16:56.286 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:56.291 > positionA: 0    positionB: 160    positionC: 0
+00:16:56.416 > 0
+00:16:56.416 > positionA: 0    positionB: 160    positionC: 0
+00:16:56.420 > 160
+00:16:56.420 > positionA: 0    positionB: 160    positionC: 0
+00:16:56.427 > 0
+00:16:56.427 > positionA: 0    positionB: 160    positionC: 0
+00:16:57.429 > --------------------------------------------------------
+00:16:57.546 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:57.551 > positionA: 0    positionB: 160    positionC: 0
+00:16:57.676 > 0
+00:16:57.676 > positionA: 0    positionB: 160    positionC: 0
+00:16:57.680 > 160
+00:16:57.680 > positionA: 0    positionB: 160    positionC: 0
+00:16:57.687 > 0
+00:16:57.687 > positionA: 0    positionB: 160    positionC: 0
+00:16:58.689 > --------------------------------------------------------
+00:16:58.806 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:16:58.811 > positionA: 0    positionB: 160    positionC: 0
+00:16:58.936 > 0
+00:16:58.936 > positionA: 0    positionB: 160    positionC: 0
+00:16:58.940 > 160
+00:16:58.940 > positionA: 0    positionB: 160    positionC: 0
+00:16:58.947 > 0
+00:16:58.947 > positionA: 0    positionB: 160    positionC: 0
+00:16:59.949 > --------------------------------------------------------
+00:17:00.066 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:17:00.071 > positionA: 0    positionB: 160    positionC: 0
+00:17:00.196 > 0
+00:17:00.196 > positionA: 0    positionB: 160    positionC: 0
+00:17:00.200 > 160
+00:17:00.200 > positionA: 0    positionB: 160    positionC: 0
+00:17:00.207 > 0
+00:17:00.207 > positionA: 0    positionB: 160    positionC: 0
+00:17:01.208 > --------------------------------------------------------
+00:17:01.326 > Stop | servo y-axis (up) | servo turn 180 degree | gripper off
+00:17:01.331 > positionA: 0    positionB: 160    positionC: 0
+00:17:01.456 > 0
+00:17:01.456 > positionA: 0    positionB: 160    positionC: 0
+00:17:01.460 > 160
+00:17:01.460 > positionA: 0    positionB: 160    positionC: 0
+00:17:01.467 > 0
+00:17:01.467 > positionA: 0    positionB: 160    positionC: 0

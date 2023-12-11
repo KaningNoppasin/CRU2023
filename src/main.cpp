@@ -2,8 +2,8 @@
 #include <Adafruit_PWMServoDriver.h>
 
 // #include "my_sketch/my_sketch.ino"
-// #include "main/main_manule.ino"
-#include "test_code/servo.ino"
+#include "main/main_manule.ino"
+// #include "test_code/servo.ino"
 
 // *Ref => https://www.instructables.com/A-Way-to-Run-Arduino-Sketch-With-VSCode-PlatformIO/
 // void setup() {

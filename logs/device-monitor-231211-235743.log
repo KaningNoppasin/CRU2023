@@ -1,0 +1,48 @@
+23:57:44.369 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:57:44.371 > positionA: 0    positionB: 5    positionC: 0
+23:57:45.929 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:57:45.931 > positionA: 90    positionB: 5    positionC: 170
+23:57:46.189 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:57:46.191 > positionA: 90    positionB: 5    positionC: 170
+23:58:22.908 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:22.910 > positionA: 0    positionB: 5    positionC: 0
+23:58:23.608 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:23.610 > positionA: 90    positionB: 5    positionC: 0
+23:58:23.868 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:23.871 > positionA: 90    positionB: 5    positionC: 0
+23:58:24.128 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:24.130 > positionA: 90    positionB: 5    positionC: 0
+23:58:24.388 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:24.390 > positionA: 90    positionB: 5    positionC: 0
+23:58:24.648 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:24.650 > positionA: 90    positionB: 5    positionC: 0
+23:58:24.908 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:24.910 > positionA: 90    positionB: 5    positionC: 0
+23:58:25.168 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:25.170 > positionA: 90    positionB: 5    positionC: 0
+23:58:25.428 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:25.430 > positionA: 90    positionB: 5    positionC: 0
+23:58:25.688 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:25.690 > positionA: 90    positionB: 5    positionC: 0
+23:58:25.948 > Stop | servo y-axis (up) | servo turn 0 degree | gripper on
+23:58:25.950 > positionA: 90    positionB: 5    positionC: 0
+23:58:26.207 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:26.210 > positionA: 90    positionB: 5    positionC: 0
+23:58:27.328 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:27.330 > positionA: 90    positionB: 5    positionC: 170
+23:58:27.587 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:27.590 > positionA: 90    positionB: 5    positionC: 170
+23:58:27.847 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:27.850 > positionA: 90    positionB: 5    positionC: 170
+23:58:28.107 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:28.110 > positionA: 90    positionB: 5    positionC: 170
+23:58:28.368 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:28.370 > positionA: 90    positionB: 5    positionC: 170
+23:58:28.627 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:28.630 > positionA: 90    positionB: 5    positionC: 170
+23:58:28.887 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:28.890 > positionA: 90    positionB: 5    positionC: 170
+23:58:29.148 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:29.150 > positionA: 90    positionB: 5    positionC: 170
+23:58:29.407 > Stop | servo y-axis (down) | servo turn 0 degree | gripper on
+23:58:29.410 > positionA: 90    positionB: 5    positionC: 170
