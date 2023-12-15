@@ -31,7 +31,7 @@ JOY getValueFromJOY(){
     ch6Value = readSwitch(CH6,false);  //  gripper ob off   (0,50)
 
     //  1=>Forward 2=>Backward 3=>Right 4=>Left 5=>Stop
-    joyValue.direction = ch1Value > offSet ? 1 : ch1Value < -offSet ? 2 : ch4Value > offSet ? 3 : ch4Value < -offSet ? 4 : 5;
+    joyValue.direction = ch1Value > offSet ? 1 : ch1Value < -offSet ? 2 : ch4Value > offSet ? 3 : ch4Value < -offSet ? 4 : ch2Value > offSet ? 5 : ch2Value < -offSet ? 6 : 7;
     //  1=>up 2=>down
     joyValue.servo_y_axis = ch3Value > offSet ? 1 : 2;
     //  1=>0 2=>90 3=>180

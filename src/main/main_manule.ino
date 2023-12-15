@@ -39,27 +39,29 @@ void loop()
 {
     JOY joyValue = getValueFromJOY();
     switch (joyValue.direction) {
-        case 1:FORWARD(defaultSpeed);break;
-        case 2:BACKOFF(defaultSpeed);break;
+        case 1:FORWARD(defaultSpeed + 10);break;
+        case 2:BACKOFF(defaultSpeed - 10);break;
         case 3:RIGHT_2(defaultSpeed);break;
         case 4:LEFT_2(defaultSpeed);break;
-        case 5:STOP(defaultSpeed);break;
+        case 5:TURN_RIGHT(defaultSpeed - 5);break;
+        case 6:TURN_LEFT(defaultSpeed - 5);break;
+        case 7:STOP(defaultSpeed);break;
         default:STOP(defaultSpeed);break;
     }
     switch (joyValue.gripper) {
-        case 1:servoA.write(160);break;
+        case 1:servoA.write(130);break;
         case 2:servoA.write(0);break;
         default:break;
         }
-    switch (joyValue.servo_degree) {
-        case 1:servoB.write(20);break;
-        case 2:servoB.write(90);break;
-        case 3:servoB.write(170);break;
-        default:break;
-        }
+    // switch (joyValue.servo_degree) {
+    //     case 1:servoB.write(20);break;
+    //     case 2:servoB.write(90);break;
+    //     case 3:servoB.write(170);break;
+    //     default:break;
+    //     }
     switch (joyValue.servo_y_axis) {
-        case 1:servoC.write(0);break;
-        case 2:servoC.write(70);break;
+        case 1:servoC.write(0);break;   //=>up
+        case 2:servoC.write(70);break;  //=>down
         default:break;
         }
 }

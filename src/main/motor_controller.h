@@ -16,9 +16,9 @@ Adafruit_PWMServoDriver PWM = Adafruit_PWMServoDriver();
 #define MOTORC_STOP(x)         do{pwmWrite(DIRC1,0); pwmWrite(DIRC2,0);}while(0)
 #define MOTORC_BACKOFF(pwm)    do{pwmWrite(DIRC1,0);pwmWrite(DIRC2,pwm); }while(0)
 
-#define MOTORD_FORWARD(pwm)    do{pwmWrite(DIRD1,pwm); pwmWrite(DIRD2,0);}while(0)
+#define MOTORD_FORWARD(pwm)    do{pwmWrite(DIRD1,pwm + 10); pwmWrite(DIRD2,0);}while(0)
 #define MOTORD_STOP(x)         do{pwmWrite(DIRD1,0); pwmWrite(DIRD2,0);}while(0)
-#define MOTORD_BACKOFF(pwm)    do{pwmWrite(DIRD1,0);pwmWrite(DIRD2,pwm); }while(0)
+#define MOTORD_BACKOFF(pwm)    do{pwmWrite(DIRD1,0);pwmWrite(DIRD2,pwm + 10); }while(0)
 // -----------------------------------------------------
 
 // ------------------- Define Function -------------------
@@ -26,7 +26,7 @@ Adafruit_PWMServoDriver PWM = Adafruit_PWMServoDriver();
 //     |  ↑  |
 //     |  |  |
 //    ↑C-----D↑
-#define FORWARD(pwm)    do{MOTORA_FORWARD(pwm);MOTORB_FORWARD(pwm);MOTORC_FORWARD(pwm);MOTORD_FORWARD(pwm); }while(0)
+#define FORWARD(pwm)    do{MOTORA_FORWARD(pwm - 5);MOTORB_FORWARD(pwm + 10);MOTORC_FORWARD(pwm);MOTORD_FORWARD(pwm + 10); }while(0)
 
 //    =A-----B=
 //     |  =  |
@@ -38,7 +38,7 @@ Adafruit_PWMServoDriver PWM = Adafruit_PWMServoDriver();
 //     |  |  |
 //     |  ↓  |
 //    ↓C-----D↓
-#define BACKOFF(pwm)    do{MOTORA_BACKOFF(pwm);MOTORB_BACKOFF(pwm);MOTORC_BACKOFF(pwm);MOTORD_BACKOFF(pwm); }while(0)
+#define BACKOFF(pwm)    do{MOTORA_BACKOFF(pwm);MOTORB_BACKOFF(pwm);MOTORC_BACKOFF(pwm);MOTORD_BACKOFF(pwm + 10); }while(0)
 
 //    =A-----B↑
 //     |   ↖ |
@@ -50,7 +50,7 @@ Adafruit_PWMServoDriver PWM = Adafruit_PWMServoDriver();
 //     |  ←  |
 //     |  ←  |
 //    ↑C-----D↓
-#define LEFT_2(pwm)     do{MOTORA_BACKOFF(pwm);MOTORB_FORWARD(pwm);MOTORC_FORWARD(pwm);MOTORD_BACKOFF(pwm); }while(0)
+#define LEFT_2(pwm)     do{MOTORA_BACKOFF(pwm + 20);MOTORB_FORWARD(pwm + 15 + 10);MOTORC_FORWARD(pwm + 20);MOTORD_BACKOFF(pwm + 20); }while(0)
 
 //    ↓A-----B=
 //     | ↙   |
@@ -68,11 +68,16 @@ Adafruit_PWMServoDriver PWM = Adafruit_PWMServoDriver();
 //     |  →  |
 //     |  →  |
 //    ↓C-----D↑
-#define RIGHT_2(pwm)    do{MOTORA_FORWARD(pwm);MOTORB_BACKOFF(pwm);MOTORC_BACKOFF(pwm);MOTORD_FORWARD(pwm); }while(0)
+#define RIGHT_2(pwm)    do{MOTORA_FORWARD(pwm + 20);MOTORB_BACKOFF(pwm + 15 + 10);MOTORC_BACKOFF(pwm + 20);MOTORD_FORWARD(pwm + 20); }while(0)
 
 //    =A-----B↓
 //     |   ↘ |
 //     | ↘   |
 //    ↓C-----D=
 #define RIGHT_3(pwm)    do{MOTORA_STOP(pwm);MOTORB_BACKOFF(pwm);MOTORC_BACKOFF(pwm);MOTORD_STOP(pwm); }while(0)
+
+
+#define TURN_RIGHT(pwm)    do{MOTORA_FORWARD(pwm + 15);MOTORB_BACKOFF(pwm + 15);MOTORC_FORWARD(pwm - 10);MOTORD_BACKOFF(pwm - 10); }while(0)
+
+#define TURN_LEFT(pwm)    do{MOTORA_BACKOFF(pwm + 15);MOTORB_FORWARD(pwm + 15);MOTORC_BACKOFF(pwm - 10);MOTORD_FORWARD(pwm - 10); }while(0)
 // ------------------------------------------------------

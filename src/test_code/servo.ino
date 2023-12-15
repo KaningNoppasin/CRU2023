@@ -47,12 +47,12 @@ void setup()
     SERVOA_CONTROL(positionA);
     SERVOB_CONTROL(positionB);
     SERVOC_CONTROL(positionC);
-    // delay(2000);
-    SERVOA_CONTROL(90);
-    SERVOB_CONTROL(90);
-    SERVOC_CONTROL(70);
     delay(2000);
-    SERVOB_CONTROL(170);
+    // SERVOA_CONTROL(90);
+    // SERVOB_CONTROL(90);
+    SERVOC_CONTROL(70);
+    // delay(2000);
+    // SERVOB_CONTROL(170);
 
 }
 

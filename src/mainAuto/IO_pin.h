@@ -3,7 +3,7 @@
 *    A-----B
 *    |  |  |
 *    |  |  |
-*    C-----D
+*    A-----B
 
 */
 #ifndef IOFILE
@@ -17,33 +17,12 @@
 #define DIRB1 5   // +
 #define DIRB2 4  // -
 
-#define DIRC1 9   // +
-#define DIRC2 8  // -
+#define sensorPIN 4
 
-#define DIRD1 7   // +
-#define DIRD2 6  // -
 
-byte pinOUT[4] = {DIRA1,DIRA2,DIRB1,DIRB2};
+byte pinOUT[2] = {DIRA1,DIRA2};
 byte defaultSpeed = 40;     //50 forward =>ok
 byte offSet = 50;
-
-// byte direction;
-// byte servo_y_axis;
-// byte servo_degree;
-// byte gripper;
-
-// ------------------- Joy Pin -------------------
-// Define Input Connections
-#define CH1 3
-#define CH2 5
-#define CH3 A2
-#define CH4 A0
-#define CH5 A3
-#define CH6 A1
-
-int ch1Value,ch2Value,ch3Value,ch4Value,ch5Value;
-// bool ch6Value;
-int ch6Value;
 
 /*
 A => Gripper    B => turn 0 90 180 degree   C => up down

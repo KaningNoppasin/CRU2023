@@ -13,7 +13,8 @@ Servo servoB;
 Servo servoC;
 
 byte positionA = 0;
-byte positionB = 5;
+// byte positionB = 5;
+byte positionB = 100;
 byte positionC = 0;
 
 int step;
